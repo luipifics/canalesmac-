@@ -206,16 +206,16 @@ http://lt-afr.rtload.be:9192/92f82e8d28529a58babebf3929d17c02577eb17b932c0a/inde
 http://lt-afr.rtload.be:9192/92f82e8d28529a58babebf3929d17c024079ab618d2800482567/index.m3u8
 #EXTINF:-1, UNIVERSAL
 http://lt-afr.rtload.be:9192/92f82e8d28529a58babebf3929d17c024179b6689b3f01402c/index.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1, 20.epiciptv.com:88/stalker_portal/c/
+http://lt-afr.rtload.be:9192/
+#EXTINF:-1, AXNHD
+http://v4.epiciptv.com:2000/AXNHD/video.m3u8
+#EXTINF:-1, CINEMAX
+http://v4.epiciptv.com:2000/CINEMAX/video.m3u8
+#EXTINF:-1, SpaceHD
+http://v4.epiciptv.com:2000/SpaceHD/video.m3u8
+#EXTINF:-1, TNTHD
+http://v4.epiciptv.com:2000/TNTHD(MX)/video.m3u8
+#EXTINF:-1, TNTSERIEHD
+http://v4.epiciptv.com:2000/TNTSERIEHD(MX)/video.m3u8
 #EXTINF:-1,
