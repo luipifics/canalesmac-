@@ -219,4 +219,573 @@ http://51.83.177.94:8080/K3hGXU8UXc/VfeThFh55m/193065?play_token=Bhz8Fb1eBk&toke
 http://51.83.177.94:8080/K3hGXU8UXc/VfeThFh55m/193045?play_token=yo68c6Ep6G&token=QhULAEMOEg8QVAFTUQhTUQZaBl8LVFYPVVNWXwEIA1EJBQYDCF8DAwQSHBdATBBXUlRuUFxACgYIBVMNBR1AQUpSET5ZAhIPEAEDDAQJVhAfG0VQVQcSDQAAVQsFBFAECQRPQ0APVBcIEgkFCgBAHhFcSU1dEF5WXWkHXEZYAVEbDQ0UXAocF11eb1FWVQNcVxsLGwlAHBVYRRMbCl8XWFUbQQNZEkJURlUSD11NDl4fG1JWTQxERUgUWRt9aUAYG1IbFVUIQ1xdXhIPEUwREB8bWEpnEFVERUQGWF1UEBYDFVNDHERdVEpvU1pdVgdRR1BeV0tAChUAFE8bXV4MXU1YET5AD1QXCBIIDAYJQE8
 #EXTINF:-1, TNT SERIES
 http://51.83.177.94:8080/K3hGXU8UXc/VfeThFh55m/193011?play_token=3ETb0ZoqZi&token=QhULAEMOEg8QAlVUBgxbVlVcBVxaWwYABQ9aW1YBVlALAFdTBFBVA1MSHBdATBBXUlRuUFxACgYIBVMIAR1AQUpSET5ZAhIPEAEDDAQJVhAfG0VQVQcSDQAAVQsFBFAEDgFPQ0APVBcIXkVZXxRAV0tNVEtWA1xoVVMVUFNUQA5XQg8NHERfW21UVVhSVgYQCRsAGxRAWURBFFlXRV0OGBtVChVCB0RQEApeQF9UThBQVkRXTBBJFQsULmESHUBRQUMGD0MPX1sQChJBQBpOEFpKbktdEURFVFcOXEITWBYJFU9DXQdIalFfXltWWxZbXFdCGwJAARUdFA5WXlgWW0toEwhURApbR1xcSA
+#EXTINF:-1, nxtplay.xyz:8080
+http://51.83.177.94:8080/K3hGXU8UXc/VfeThFh55m/193011?
+#EXTINF:-1,AXN (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221131
+#EXTINF:-1,C5N (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221127
+#EXTINF:-1,Canal_HD (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221125
+#EXTINF:-1,Cartoon_Network (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221124
+#EXTINF:-1,CNN_en_Espanol (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221121
+#EXTINF:-1,Comedy_Central (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221120
+#EXTINF:-1,DeporTV_HD (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221118
+#EXTINF:-1,Discovery_Channel (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221117
+#EXTINF:-1,Discovery_ID (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221116
+#EXTINF:-1,Discovery_Kids (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221115
+#EXTINF:-1,Disney_Channel_Sur (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221114
+#EXTINF:-1,Disney_Junior (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221113
+#EXTINF:-1,E!_Entertainment (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221111
+#EXTINF:-1,El_trece (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221109
+#EXTINF:-1,Encuentro (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221108
+#EXTINF:-1,H2_History (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221106
+#EXTINF:-1,History_Channel (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221105
+#EXTINF:-1,HOLATV (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221104
+#EXTINF:-1,HTV (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221103
+#EXTINF:-1,Lifetime (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221101
+#EXTINF:-1,National_Geographic (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221099
+#EXTINF:-1,Paramount_Channel_HD (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221095
+#EXTINF:-1,RAI_International_Spanish (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221093
+#EXTINF:-1,Sony (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221091
+#EXTINF:-1,TBS (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221090
+#EXTINF:-1,Telefe_HD (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221089
+#EXTINF:-1,TNT (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221086
+#EXTINF:-1,TNT_series (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221085
+#EXTINF:-1,Volver (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221083
+#EXTINF:-1,ESPN (ARG)GENTINA_HD_AR
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221077
+#EXTINF:-1,ESPN3 (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221076
+#EXTINF:-1,ESPN_2 (ARG)gentina_HD_AR
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221075
+#EXTINF:-1,ESPN_Extra (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221074
+#EXTINF:-1,Fox_Sports_2 (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221073
+#EXTINF:-1,FOX_Sports_3 (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221072
+#EXTINF:-1,Fox_Sports_America (ARG)gentina_AR
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221071
+#EXTINF:-1,NBA_TV_International_HD (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221069
+#EXTINF:-1,Cinemax (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221066
+#EXTINF:-1,HBO (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221064
+#EXTINF:-1,HBO_2 (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221063
+#EXTINF:-1,HBO_Plus (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221062
+#EXTINF:-1,Space (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221061
+#EXTINF:-1,Star_Life (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221059
+#EXTINF:-1,Studio_Universal (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221058
+#EXTINF:-1,Universal_Chile (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221057
+#EXTINF:-1,Warner_Channel (ARG)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/221056
+#EXTINF:-1,AMC Mexico_HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216057
+#EXTINF:-1,Cartoon Network_Mexico_HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216055
+#EXTINF:-1,CineCanal Mex_HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216054
+#EXTINF:-1,Cinemax Mexico_HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216053
+#EXTINF:-1,CNN Internacional  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216052
+#EXTINF:-1,CNN Mexico  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216051
+#EXTINF:-1,Discovery Channel_Mexico  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216050
+#EXTINF:-1,Discovery Theater_HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216048
+#EXTINF:-1,Discovery Turbo  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216047
+#EXTINF:-1,Discovery World  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216046
+#EXTINF:-1,Disney Channel_Mex  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216045
+#EXTINF:-1,Disney Junior_Mexico  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216044
+#EXTINF:-1,Disney XD_Mex  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216043
+#EXTINF:-1,E! Entertainment_HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216042
+#EXTINF:-1,El Gourmet  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216041
+#EXTINF:-1,Europa Europa  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216040
+#EXTINF:-1,Food Network  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216039
+#EXTINF:-1,FX Latin_America_HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216038
+#EXTINF:-1,H2 History_Mex  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216037
+#EXTINF:-1,History Channel_Mexico_HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216036
+#EXTINF:-1,ID HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216035
+#EXTINF:-1,Imagen TV_HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216034
+#EXTINF:-1,Lifetime HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216033
+#EXTINF:-1,Mas Chic  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216032
+#EXTINF:-1,MTV Latino_Norte_HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216031
+#EXTINF:-1,NatGeo Wild  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216030
+#EXTINF:-1,National Geo_kids  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216029
+#EXTINF:-1,Nick Jr  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216028
+#EXTINF:-1,Nickelodeon Latin_America_HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216027
+#EXTINF:-1,Pasiones TV_Latin_America  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216026
+#EXTINF:-1,Sony MX_West_HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216025
+#EXTINF:-1,TLC Mexico_HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216024
+#EXTINF:-1,TNT Series  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216023
+#EXTINF:-1,ESPN 2_Mexico  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216022
+#EXTINF:-1,ESPN Extra  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216021
+#EXTINF:-1,ESPN Mexico  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216020
+#EXTINF:-1,ESPN Tres_North_HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216019
+#EXTINF:-1,Fox Sports2_HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216018
+#EXTINF:-1,FX Movies_Oeste_HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216017
+#EXTINF:-1,HBO Family  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216016
+#EXTINF:-1,HBO Oeste_HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216015
+#EXTINF:-1,HBO Plus_Oeste_HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216014
+#EXTINF:-1,HBO Signature  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216013
+#EXTINF:-1,HBO2 HD_Mexico  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216012
+#EXTINF:-1,Space Latin_Am_Mexico_HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216011
+#EXTINF:-1,Star Action  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216010
+#EXTINF:-1,Star Channel  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216009
+#EXTINF:-1,Star Cinema  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216008
+#EXTINF:-1,Star Classics  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216007
+#EXTINF:-1,Star Comedy  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216006
+#EXTINF:-1,Star Fun  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216005
+#EXTINF:-1,Star Hits  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216004
+#EXTINF:-1,Star Series  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216003
+#EXTINF:-1,Studio Universal_HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216002
+#EXTINF:-1,Universal TV  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216001
+#EXTINF:-1,Warner Channel_Mexico_HD  (MEX)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/216000
+#EXTINF:-1,SUR | CDF BASICO
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300329
+#EXTINF:-1,SUR | CDO BASICO
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300328
+#EXTINF:-1,18 | CDF PREMIUM SD
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300327
+#EXTINF:-1,93 | CDF PREMIUM UHD ®
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300326
+#EXTINF:-1,SUR | CDF PREMIUM
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300325
+#EXTINF:-1,SUR | CHV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300324
+#EXTINF:-1,SUR | MEGA
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300323
+#EXTINF:-1,SUR | CANAL CLARO
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300322
+#EXTINF:-1,08 | ESTADIO TNT SPORTS HD
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300321
+#EXTINF:-1,09 | ESTADIO TNT SPORTS UHD
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300320
+#EXTINF:-1,35 | TNT SPORTS  CHILE
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300319
+#EXTINF:-1,90 | TNT SPORTS CHILE #3
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300318
+#EXTINF:-1,10 | TNT SPORTS CHILE #3
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300317
+#EXTINF:-1,54 | TNT SPORTS 3 UHD (CHIL)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300316
+#EXTINF:-1,04 | ESPN HD
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300315
+#EXTINF:-1,05 | ESPN HD (CHILE)
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300314
+#EXTINF:-1,06 | TNT SPORTS FHD
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300313
+#EXTINF:-1,09 |  LA RED
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300312
+#EXTINF:-1,07 | TNT SPORTS UHD
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300311
+#EXTINF:-1,10 | TELETRAK HD
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300310
+#EXTINF:-1,11 | 24 HORAS
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300309
+#EXTINF:-1,12 |  24 HORAS CL
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300308
+#EXTINF:-1,01 | TVN HD
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300307
+#EXTINF:-1,02 | TVN HD
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300306
+#EXTINF:-1,03 | MEGA
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300305
+#EXTINF:-1,01 | DIRECTV SPORTS CHILE
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300304
+#EXTINF:-1,04 | MEGA HD
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300303
+#EXTINF:-1,02 | FOX SPORTS 1 HD
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300302
+#EXTINF:-1,03 | FOX SPORTS 2 HD
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300301
+#EXTINF:-1,06 | CANAL 13 CHILE
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300300
+#EXTINF:-1,07 | CNN CHILE
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300299
+#EXTINF:-1,25 | CINE CANAL ®
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300298
+#EXTINF:-1,81 | CINE LATINO SD
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300297
+#EXTINF:-1,58 | CINE LATINO
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300296
+#EXTINF:-1,19 | TV CHILE HD
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/300295
+#EXTINF:-1,chil: Radio Fiessta
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293428
+#EXTINF:-1,chil: Radio Hoy
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293427
+#EXTINF:-1,chil: VTV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293426
+#EXTINF:-1,chil: Enfoque Digital TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293425
+#EXTINF:-1,chil: U Chile TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293424
+#EXTINF:-1,chil: UCV 2
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293423
+#EXTINF:-1,chil: UCV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293422
+#EXTINF:-1,chil: Radio Maqui
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293421
+#EXTINF:-1,chil:  Recuerdos Retro Radio TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293420
+#EXTINF:-1,chil: Energia TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293419
+#EXTINF:-1,chil: Ñublevision
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293418
+#EXTINF:-1,chil: Telecanal Talca
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293417
+#EXTINF:-1,chil: Telecanal Santa Cruz
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293416
+#EXTINF:-1,chil: 38TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293415
+#EXTINF:-1,chil: TecTV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293414
+#EXTINF:-1,chil: Madero TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293413
+#EXTINF:-1,chil: Holvoet TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293412
+#EXTINF:-1,chil: CHV Noticias
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293411
+#EXTINF:-1,chil: Radiomania
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293410
+#EXTINF:-1,chil:  Cloud FM
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293409
+#EXTINF:-1,chil:  Zapping Music
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293408
+#EXTINF:-1,chil:   TV vconline
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293407
+#EXTINF:-1,chil: 13 Teleseries
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293406
+#EXTINF:-1,chil:  13 Prime
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293405
+#EXTINF:-1,chil:  13 Entretencion
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293404
+#EXTINF:-1,chil: 13 Cultura
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293403
+#EXTINF:-1,chil:  Dance FM
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293402
+#EXTINF:-1,chil: ANTV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293401
+#EXTINF:-1,chil: AMC+
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293400
+#EXTINF:-1,chil: A Son de Salsa
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293399
+#EXTINF:-1,chil: 24 Horas
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293398
+#EXTINF:-1,chil:  D13 TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293397
+#EXTINF:-1,chil: Carolina TV 2
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293396
+#EXTINF:-1,chil:  VClassicTV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293395
+#EXTINF:-1,chil: Radio Lado Oscuro TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293394
+#EXTINF:-1,chil: Radio PuntoFM
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293393
+#EXTINF:-1,chil:  EnerGeek
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293392
+#EXTINF:-1,chil: MÁS TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293391
+#EXTINF:-1,chil:  Evavisión TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/293390
+#EXTINF:-1,CL: Chilevision
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/176734
+#EXTINF:-1,CL: 24 Horas
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287985
+#EXTINF:-1,CL: Mega FHD
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287984
+#EXTINF:-1,CL: CDF FHD
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287983
+#EXTINF:-1,CL: CDF Premium
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287982
+#EXTINF:-1,CL: Canal 13
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287981
+#EXTINF:-1,chil: Televida
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287565
+#EXTINF:-1,chil: Rewind Tv
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287564
+#EXTINF:-1,chil: FM HOT
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287563
+#EXTINF:-1,chil: Vallenato Internacional
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287562
+#EXTINF:-1,chil: TV Quellón
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287561
+#EXTINF:-1,chil: Top Latino TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287560
+#EXTINF:-1,chil: Telecanal
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287559
+#EXTINF:-1,chil: T13
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287558
+#EXTINF:-1,chil: SoloBáilalo
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287557
+#EXTINF:-1,chil: Radio San Borja TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287556
+#EXTINF:-1,chil: Radio Rancagua FM
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287555
+#EXTINF:-1,chil: MNB world
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287554
+#EXTINF:-1,chil: Meganoticias
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287553
+#EXTINF:-1,chil: LatinoKids
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287552
+#EXTINF:-1,chil: Hiperconectados Televisión
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287551
+#EXTINF:-1,chil: Girovisual
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287550
+#EXTINF:-1,chil: EJTV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287549
+#EXTINF:-1,chil: Chavo TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287548
+#EXTINF:-1,chil: Caracola TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287547
+#EXTINF:-1,chil: Canal 26
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287546
+#EXTINF:-1,chil: Arica TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287545
+#EXTINF:-1,chil: América Sports
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287544
+#EXTINF:-1,chil: Wow
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287543
+#EXTINF:-1,chil: Chile 5
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287542
+#EXTINF:-1,chil: UTV San Clemente
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287541
+#EXTINF:-1,chil: Retro Plus TV 3
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287540
+#EXTINF:-1,chil: Carolina TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287539
+#EXTINF:-1,chil: Canal Latino
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287538
+#EXTINF:-1,chil: Alegria TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287537
+#EXTINF:-1,chil: TV Salud
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287536
+#EXTINF:-1,chil: Mundo de la Música
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287535
+#EXTINF:-1,chil: Ñuble RTV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287534
+#EXTINF:-1,chil: Tendencias 31 Prime
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287533
+#EXTINF:-1,chil: Pintana TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287532
+#EXTINF:-1,chil: Campus TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287531
+#EXTINF:-1,chil: Puncón TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287530
+#EXTINF:-1,chil: U Los Lagos TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287529
+#EXTINF:-1,chil: Aysén TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287528
+#EXTINF:-1,chil: CEAC TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287527
+#EXTINF:-1,chil: Buin Somos Todos
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287526
+#EXTINF:-1,chil: RedBull Batalla de Gallos
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287525
+#EXTINF:-1,chil:  Décima TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287524
+#EXTINF:-1,chil: RCK TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287523
+#EXTINF:-1,chil: Exprezión TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287522
+#EXTINF:-1,chil: Evavisión Pachanga
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287521
+#EXTINF:-1,chil: TVO
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287520
+#EXTINF:-1,chil: Turf Móvil
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287519
+#EXTINF:-1,chil: ATV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287518
+#EXTINF:-1,chil: Pauta TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287517
+#EXTINF:-1,chil: Voz de Poder
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287516
+#EXTINF:-1,chil: Alternativa TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287515
+#EXTINF:-1,chil: Contivisión
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287514
+#EXTINF:-1,chil: Planetatv Kids
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287513
+#EXTINF:-1,chil: Visión Plus TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287512
+#EXTINF:-1,chil: TV 8
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287511
+#EXTINF:-1,chil: LRP Televisión
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287510
+#EXTINF:-1,chil: Canal SCÑ
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287509
+#EXTINF:-1,chil: Canal 57 Melipilla
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287508
+#EXTINF:-1,chil: CSTV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287507
+#EXTINF:-1,chil: Cloudserver Kids90
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287506
+#EXTINF:-1,chil: MÁS+.TV CHILE
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287505
+#EXTINF:-1,chil: Click TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287504
+#EXTINF:-1,chil: TV POP HD
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287503
+#EXTINF:-1,chil: TVR
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287502
+#EXTINF:-1,chil:  VC Online
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287501
+#EXTINF:-1,chil: Radio Zeta TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287500
+#EXTINF:-1,chil: UATV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287499
+#EXTINF:-1,chil: Stgo.TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287498
+#EXTINF:-1,chil: TV5 Linares
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287497
+#EXTINF:-1,chil: SEO TV Novelas
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287496
+#EXTINF:-1,chil: ADN Radio TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287495
+#EXTINF:-1,chil: Teletrak
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287494
+#EXTINF:-1,chil: Tevex TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287493
+#EXTINF:-1,chil: HiperTV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287492
+#EXTINF:-1,chil: SoloStandUp TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287491
+#EXTINF:-1,chil: UCV3 TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287490
+#EXTINF:-1,chil: Portalfoxmix TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287489
+#EXTINF:-1,chil: Ruidos FM
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287488
+#EXTINF:-1,chil: EnlaceTV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287487
+#EXTINF:-1,chil: Retro Plus TV 2
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287486
+#EXTINF:-1,chil: Retro Plus TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287485
+#EXTINF:-1,chil: DW Español
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287484
+#EXTINF:-1,chil: Canal Diputados TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287483
+#EXTINF:-1,chil: Canal 2
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287482
+#EXTINF:-1,chil: TNETV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287481
+#EXTINF:-1,chil: teleSUR Tv
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287480
+#EXTINF:-1,chil: Canal 74
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287479
+#EXTINF:-1,chil: Canal 21 Tv
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287478
+#EXTINF:-1,chil: La Red
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287477
+#EXTINF:-1,chil: BBTV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287476
+#EXTINF:-1,chil: Iquique TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287475
+#EXTINF:-1,chil: Rocco TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287474
+#EXTINF:-1,chil: Inet TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287473
+#EXTINF:-1,chil: Canal VTV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287472
+#EXTINF:-1,chil: ITV Patagonia
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287471
+#EXTINF:-1,chil: Polar TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287470
+#EXTINF:-1,chil: Canal 5 TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287469
+#EXTINF:-1,chil: SextaVisión
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287468
+#EXTINF:-1,chil: Pingüino TV
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/287467
+#EXTINF:-1,CL: Chilevision FHD
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/176733
+#EXTINF:-1,CL: La Red
+http://nxtplay.xyz:8080/HSOtCkVLVUlH/IZuB3jJtf6hm/176728
+
 
