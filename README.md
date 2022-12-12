@@ -12,21 +12,21 @@ http://lt-afr.rtload.be:9192/8be1228d28529a5fbeb4b83c2ad17c024767be7d9b/tracks-v
 
 #EXTINF:-1 pure iptv
 http://pure-iptv.com:8000/QnoIa5G4Ehbb/neFIYMY7Qx/173516
-#EXTINF:-1 TNT SERIES
+#EXTINF:-1, TNT SERIES PUR
 http://pure-iptv.com:8000/QnoIa5G4Ehbb/neFIYMY7Qx/173516
-#EXTINF:-1 TNT
+#EXTINF:-1, TNT PURE
 http://pure-iptv.com:8000/QnoIa5G4Ehbb/neFIYMY7Qx/173517
-#EXTINF:-1 TLC 
+#EXTINF:-1, TLC PURE
 http://pure-iptv.com:8000/QnoIa5G4Ehbb/neFIYMY7Qx/173518
-#EXTINF:-1 AXN  (ARG)
+#EXTINF:-1, AXN  (ARG) PURE
 http://pure-iptv.com:8000/QnoIa5G4Ehbb/neFIYMY7Qx/173751
-#EXTINF:-1 AXN (MEX) 
+#EXTINF:-1, AXN (MEX) PURE
 http://pure-iptv.com:8000/QnoIa5G4Ehbb/neFIYMY7Qx/173565
-#EXTINF:-1 SPACE 
+#EXTINF:-1, SPACE PURE
 http://pure-iptv.com:8000/QnoIa5G4Ehbb/neFIYMY7Qx/173565
-#EXTINF:-1 TNT SERIES (ARG) 
+#EXTINF:-1, TNT SERIES (ARG) PURE
 http://pure-iptv.com:8000/QnoIa5G4Ehbb/neFIYMY7Qx/173649
-#EXTINF:-1 TNT SERIES (MEX) 
+#EXTINF:-1, TNT SERIES (MEX) PURE
 http://pure-iptv.com:8000/QnoIa5G4Ehbb/neFIYMY7Qx/173516
 #EXTINF:-1, nxtplay.xyz:8080
 http://51.83.177.94:8080/K3hGXU8UXc/VfeThFh55m/193011?
