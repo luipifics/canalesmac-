@@ -5957,6 +5957,1134 @@ http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:E5:57:04&stream=553052&ext
 http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:E5:57:04&stream=552941&extension=ts
 #EXTINF:-1 tvg-id="mx.WOBI TV" tvg-name="MXC| WOBI HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.Wobi-HD.png" group-title="LAT| MEXICO",MXC| WOBI HD
 http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:E5:57:04&stream=553053&extension=ts
+#EXTINF:-1, 103.176.90.122:80
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:E5:57:04&stream=553053&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="##### LATINO GENERAL #####" tvg-logo="" group-title="|SA| LATINO",##### LATINO GENERAL #####
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264824&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - A&E" tvg-logo="http://logo.protv.cc/picons-dino/logos/aande.png" group-title="|AM| ARGENTINA",LAT - A&E
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264825&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - A&E UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/A&E_HD.png" group-title="|AM| ARGENTINA",LAT - A&E UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264826&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ADN 40" tvg-logo="http://logo.protv.cc/picons-dino/logos/ADN-40.jpeg" group-title="|SA| LATINO",LAT - ADN 40
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264827&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - AMC" tvg-logo="http://logo.protv.cc/picons-dino/logos/amc.png" group-title="|AM| ARGENTINA",LAT - AMC
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264828&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - AMC UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.amchd.png" group-title="|AM| ARGENTINA",LAT - AMC UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264829&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - AMERICA TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.americatv.png" group-title="|AM| ARGENTINA",LAT - AMERICA TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264830&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ANIMAL PLANET UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/animalplanethd.png" group-title="|SA| LATINO",LAT - ANIMAL PLANET UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264831&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ATV NOTICIAS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/atv.png" group-title="|SA| LATINO",LAT - ATV NOTICIAS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264832&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - AXN" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.axn.png" group-title="|AM| ARGENTINA",LAT - AXN
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264833&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - AXN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/axnhd.png" group-title="|AM| ARGENTINA",LAT - AXN UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264834&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - AYM SPORTS" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.AYMSports.png" group-title="|SA| LATINO",LAT - AYM SPORTS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264835&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - AZ CORAZON" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.azcorazon.png" group-title="|SA| LATINO",LAT - AZ CORAZON
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264836&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - AZTECA UNO" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.aztecauno.png" group-title="|SA| LATINO",LAT - AZTECA UNO
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264837&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - BABY TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.babytv.png" group-title="|AM| ARGENTINA",LAT - BABY TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264838&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - BABY TV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BABY-TV-HD.png" group-title="|AM| ARGENTINA",LAT - BABY TV UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264839&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - BBC WORLD NEWS" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbcworldnews.png" group-title="|SA| LATINO",LAT - BBC WORLD NEWS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264840&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - BEIN SPORTS N" tvg-logo="http://logo.protv.cc/picons-dino/logos/beinsports.png" group-title="|SA| LATINO",LAT - BEIN SPORTS N
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264841&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - BLOOMBERG" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Bloomberg.png" group-title="|SA| LATINO",LAT - BLOOMBERG
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264842&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - BLOOMBERG UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BLOOMBERG-HD.png" group-title="|SA| LATINO",LAT - BLOOMBERG UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264843&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - BOLIVIA TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.boliviatv.png" group-title="|AM| BOLIVIA",LAT - BOLIVIA TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264844&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - BOOMERANG" tvg-logo="http://logo.protv.cc/picons-dino/logos/boomerang.png" group-title="|AM| ARGENTINA",LAT - BOOMERANG
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264845&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - BOOMERANG UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/boomeranghd.png" group-title="|AM| ARGENTINA",LAT - BOOMERANG UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264846&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CABLE NOTICIAS COLOMBIA" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.cablenoticias.png" group-title="|SA| LATINO",LAT - CABLE NOTICIAS COLOMBIA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264847&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL ANTIGUA" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.canal-antigua.png" group-title="|SA| LATINO",LAT - CANAL ANTIGUA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264848&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL DE LAS ESTRELLAS" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.canal_de_las_estrellas.png" group-title="|SA| LATINO",LAT - CANAL DE LAS ESTRELLAS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264849&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CAPITAL TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/capitaltv.png" group-title="|SA| LATINO",LAT - CAPITAL TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264850&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CARACOL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.caracolhd.png" group-title="|SA| LATINO",LAT - CARACOL UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264851&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CARTOON NETWORK" tvg-logo="http://logo.protv.cc/picons-dino/logos/cartoonnetwork.png" group-title="|AM| ARGENTINA",LAT - CARTOON NETWORK
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264852&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CARTOON NETWORK UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CARTOON-NETWORK-HD.png" group-title="|AM| ARGENTINA",LAT - CARTOON NETWORK UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264853&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CDF CHILE" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.cdf.png" group-title="|AM| CHILE",LAT - CDF CHILE
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264854&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CENTRO AMERICA INT." tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Centroamerica-TV.png" group-title="|SA| LATINO",LAT - CENTRO AMERICA INT.
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264855&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CGTN" tvg-logo="http://logo.protv.cc/picons-dino/logos/cgtn.png" group-title="|SA| LATINO",LAT - CGTN
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264856&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CINECANAL" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.cinecanal.png" group-title="|AM| ARGENTINA",LAT - CINECANAL
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264857&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CINECANAL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.cinecanal-hd.png" group-title="|AM| ARGENTINA",LAT - CINECANAL UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264858&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CINEMAX" tvg-logo="http://logo.protv.cc/picons-dino/logos/CINEMAX-HD.png" group-title="|AM| ARGENTINA",LAT - CINEMAX
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264859&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CINEMAX UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CINEMAX-HD.png" group-title="|AM| ARGENTINA",LAT - CINEMAX UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264860&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CNN CHILE" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.cnnchile.png" group-title="|AM| CHILE",LAT - CNN CHILE
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264861&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CNN ESPANOL" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.cnnespanol.png" group-title="|AM| ARGENTINA",LAT - CNN ESPANOL
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264862&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CNN INTERNACIONAL" tvg-logo="http://logo.protv.cc/picons-dino/logos/cnninternational.png" group-title="|SA| LATINO",LAT - CNN INTERNACIONAL
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264863&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - COMEDY CENTRAL" tvg-logo="http://logo.protv.cc/picons-dino/logos/primacomedycentral.png" group-title="|AM| ARGENTINA",LAT - COMEDY CENTRAL
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264864&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - COMEDY CENTRAL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/comedycentralhd.png" group-title="|AM| ARGENTINA",LAT - COMEDY CENTRAL UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264865&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CUBAVISION INT." tvg-logo="http://logo.protv.cc/picons-dino/logos/cubavisoninternacional.png" group-title="|AM| PANAMA",LAT - CUBAVISION INT.
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264866&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CUBAVISION" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.cubavision.png" group-title="|AM| PANAMA",LAT - CUBAVISION
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264867&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DE PELICULA" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.depelicula_hd.png" group-title="|SA| LATINO",LAT - DE PELICULA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264868&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DE PELICULA CLASSICO" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.depelicula_clasico.png" group-title="|SA| LATINO",LAT - DE PELICULA CLASSICO
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264869&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DE PELICULA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.depelicula_hd.png" group-title="|SA| LATINO",LAT - DE PELICULA UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264870&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DE PELICULA PLUS" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.depeliculaplus.png" group-title="|SA| LATINO",LAT - DE PELICULA PLUS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264871&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DE PELICULA PLUS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.depeliculaplus.png" group-title="|SA| LATINO",LAT - DE PELICULA PLUS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264872&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DIGITAL QUINCE" tvg-logo="http://logo.protv.cc/picons-dino/logos/DIGITAL-QUINCE.png" group-title="|SA| LATINO",LAT - DIGITAL QUINCE
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264873&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DIRECT TV SPORTS 1" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.directvsport1hd.png" group-title="|SA| LATINO",LAT - DIRECT TV SPORTS 1
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264874&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DIRECT TV SPORTS 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.directv_sports2.png" group-title="|SA| LATINO",LAT - DIRECT TV SPORTS 2
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264875&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DIRECT TV SPORTS 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.directvsport1hd.png" group-title="|SA| LATINO",LAT - DIRECT TV SPORTS 1 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264876&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DIRECT TV SPORTS 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.DirecTVSports2.png" group-title="|SA| LATINO",LAT - DIRECT TV SPORTS 2 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264877&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DIRECT TV SPORTS PLUS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DirecTV_Sports_HD.png" group-title="|SA| LATINO",LAT - DIRECT TV SPORTS PLUS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264878&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DISCOVERY CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.discoverychannel.png" group-title="|AM| ARGENTINA",LAT - DISCOVERY CHANNEL
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264879&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DISCOVERY CHANNEL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.discovery_channel_HD.png" group-title="|AM| ARGENTINA",LAT - DISCOVERY CHANNEL UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264880&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DISCOVERY CIVILIZATION" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Discovery_Civilization.png" group-title="|SA| LATINO",LAT - DISCOVERY CIVILIZATION
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264881&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DISCOVERY HOME & HEALTH" tvg-logo="http://logo.protv.cc/picons-dino/logos/discoveryhomeandhealth.png" group-title="|AM| ARGENTINA",LAT - DISCOVERY HOME & HEALTH
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264882&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DISCOVERY HOME & HEALTH UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/discoveryhomeandhealth.png" group-title="|AM| ARGENTINA",LAT - DISCOVERY HOME & HEALTH UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264883&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DISCOVERY KIDS" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Discovery_kids.png" group-title="|SA| LATINO",LAT - DISCOVERY KIDS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264884&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DISCOVERY KIDS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Discovery_kids_hd.png" group-title="|SA| LATINO",LAT - DISCOVERY KIDS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264885&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DISCOVERY SCIENCE" tvg-logo="http://logo.protv.cc/picons-dino/logos/discoveryscience.png" group-title="|SA| LATINO",LAT - DISCOVERY SCIENCE
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264886&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DISCOVERY THEATER" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.discoverytheater.png" group-title="|SA| LATINO",LAT - DISCOVERY THEATER
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264887&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DISCOVERY THEATER UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.discoverytheater.png" group-title="|SA| LATINO",LAT - DISCOVERY THEATER UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264888&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DISCOVERY TURBO" tvg-logo="http://logo.protv.cc/picons-dino/logos/discoveryturbo.png" group-title="|SA| LATINO",LAT - DISCOVERY TURBO
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264889&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DISCOVERY TURBO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/discoveryturbo.png" group-title="|SA| LATINO",LAT - DISCOVERY TURBO UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264890&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DISCOVERY WORLD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.discoveryworld.png" group-title="|AM| ARGENTINA",LAT - DISCOVERY WORLD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264891&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DISCOVERY WORLD UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.discoveryworld.png" group-title="|AM| ARGENTINA",LAT - DISCOVERY WORLD UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264892&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DISCOVERY FAMILIA" tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY-HD.png" group-title="|SA| LATINO",LAT - DISCOVERY FAMILIA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=725918&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DISNEY CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/disneychannel.png" group-title="|AM| ARGENTINA",LAT - DISNEY CHANNEL
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264893&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DISNEY CHANNEL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/disneychannelhd.png" group-title="|AM| ARGENTINA",LAT - DISNEY CHANNEL UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264894&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DISNEY JUNIOR" tvg-logo="http://logo.protv.cc/picons-dino/logos/disneyjunior.png" group-title="|AM| ARGENTINA",LAT - DISNEY JUNIOR
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264895&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DISNEY JUNIOR UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.disneyjuniorhd.png" group-title="|AM| ARGENTINA",LAT - DISNEY JUNIOR UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264896&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DISNEY XD" tvg-logo="http://logo.protv.cc/picons-dino/logos/disneyxd.png" group-title="|AM| ARGENTINA",LAT - DISNEY XD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264897&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DISNEY XD UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/disneyxdhd.png" group-title="|AM| ARGENTINA",LAT - DISNEY XD UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264898&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DW ESPAÑOL" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.de-dw-espano.png" group-title="|AM| PANAMA",LAT - DW ESPAÑOL
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264900&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TVN (PA)" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.tvn.png" group-title="|AM| PANAMA",LAT - TVN (PA)
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265092&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TVN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tvnhd.png" group-title="|AM| PANAMA",LAT - TVN UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265219&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DISTRITO COMEDIA" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.distritocomedia.png" group-title="|SA| LATINO",LAT - DISTRITO COMEDIA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264899&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - E! ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons-dino/logos/eentertainment.png" group-title="|AM| ARGENTINA",LAT - E! ENTERTAINMENT
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264901&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - E! ENTERTAINMENT UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/E!-ENTERTAINMENT-HD.jpeg" group-title="|AM| ARGENTINA",LAT - E! ENTERTAINMENT UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264902&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - EL GOURMET" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Elgourmet.png" group-title="|AM| ARGENTINA",LAT - EL GOURMET
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264903&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - EL GOURMET UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Elgourmet.png" group-title="|AM| ARGENTINA",LAT - EL GOURMET UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264904&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - AMERICA TV MIAMI" tvg-logo="http://logo.protv.cc/picons/logos/laz.americatv.png" group-title="|SA| LATINO",LAT - AMERICA TV MIAMI
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=725917&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ESPN" tvg-logo="http://logo.protv.cc/picons-dino/logos/espn.png" group-title="|AM| ARGENTINA",LAT - ESPN
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264905&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ESPN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.espnhd.png" group-title="|AM| ARGENTINA",LAT - ESPN UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264906&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ESPN 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.espn2.png" group-title="|AM| ARGENTINA",LAT - ESPN 2
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264907&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ESPN 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.espn2hd.png" group-title="|AM| ARGENTINA",LAT - ESPN 2 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264908&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ESPN 3" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.espn3.png" group-title="|AM| ARGENTINA",LAT - ESPN 3
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264909&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ESPN 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.espn3.png" group-title="|AM| ARGENTINA",LAT - ESPN 3 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264910&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ESPN DEPORTES UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.espndeportehd.png" group-title="|SA| LATINO",LAT - ESPN DEPORTES UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264911&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ESPN PLUS" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.espn_plus.png" group-title="|SA| LATINO",LAT - ESPN PLUS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264912&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ESPN PLUS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.espn_plus_hd.png" group-title="|SA| LATINO",LAT - ESPN PLUS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264913&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ESPN U" tvg-logo="http://logo.protv.cc/picons-dino/logos/espnu.png" group-title="|SA| LATINO",LAT - ESPN U
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264914&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ESPN U UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/ESPN-U-HD.png" group-title="|SA| LATINO",LAT - ESPN U UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264915&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FORO TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.forotv.png" group-title="|SA| LATINO",LAT - FORO TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264916&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FORO TV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.forotvhd.png" group-title="|SA| LATINO",LAT - FORO TV UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264917&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX" tvg-logo="http://logo.protv.cc/picons-dino/logos/fox.png" group-title="|SA| LATINO",LAT - FOX
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264918&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX ACTION" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Fox_action.png" group-title="|SA| LATINO",LAT - FOX ACTION
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264919&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX ACTION UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Fox_action.png" group-title="|SA| LATINO",LAT - FOX ACTION UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264920&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX CINEMA" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.foxcinema.png" group-title="|SA| LATINO",LAT - FOX CINEMA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264921&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX CLASSICS" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Fox_classics.png" group-title="|SA| LATINO",LAT - FOX CLASSICS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264922&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX CLASSICS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Fox_classics.png" group-title="|SA| LATINO",LAT - FOX CLASSICS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264923&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX COMEDY" tvg-logo="http://logo.protv.cc/picons-dino/logos/foxcomedy.png" group-title="|SA| LATINO",LAT - FOX COMEDY
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264924&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX COMEDY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/foxcomedyhd.png" group-title="|SA| LATINO",LAT - FOX COMEDY UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264925&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX DEPORTES UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Fox_Deportes.png" group-title="|SA| LATINO",LAT - FOX DEPORTES UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264926&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX FAMILY" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Fox_family.png" group-title="|SA| LATINO",LAT - FOX FAMILY
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264927&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX FAMILY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Fox_family.png" group-title="|SA| LATINO",LAT - FOX FAMILY UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264928&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELE CURACAO" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telecuracao.png" group-title="|SA| LATINO",LAT - TELE CURACAO
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264929&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - NOS PAIS" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.nospais.png" group-title="|SA| LATINO",LAT - NOS PAIS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264930&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - RTV 7" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.rtv7.png" group-title="|SA| LATINO",LAT - RTV 7
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264931&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DIRECT 13" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.direct13.png" group-title="|SA| LATINO",LAT - DIRECT 13
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264932&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.foxhd.png" group-title="|SA| LATINO",LAT - FOX UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264933&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX LIFE" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.FoxLife.png" group-title="|SA| LATINO",LAT - FOX LIFE
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264934&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX LIFE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/foxlifehd.png" group-title="|SA| LATINO",LAT - FOX LIFE UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264935&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX HITS" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.foxmovie.png" group-title="|SA| LATINO",LAT - FOX HITS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264936&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX MOVIES UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.foxmovieshd.png" group-title="|SA| LATINO",LAT - FOX MOVIES UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264937&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX SERIES" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.foxseries.png" group-title="|SA| LATINO",LAT - FOX SERIES
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264938&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX SERIES UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.foxserieshd.png" group-title="|SA| LATINO",LAT - FOX SERIES UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264939&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DIRECTV SPORTS 1" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/4e/22/03/4e22035c-a29b-4f4e-9382-1f68860ec97e/source/256x256bb.jpg" group-title="|SA| LATINO",LAT - DIRECTV SPORTS 1
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=628277&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DIRECTV SPORTS 2" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/4e/22/03/4e22035c-a29b-4f4e-9382-1f68860ec97e/source/256x256bb.jpg" group-title="|SA| LATINO",LAT - DIRECTV SPORTS 2
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=628276&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DIRECTV SPORTS PLUS" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/4e/22/03/4e22035c-a29b-4f4e-9382-1f68860ec97e/source/256x256bb.jpg" group-title="|SA| LATINO",LAT - DIRECTV SPORTS PLUS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=628275&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CLARO-FOX SPORTS" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b1/ae/62/b1ae6282-6d6a-e993-15d5-68abb1e56aad/source/256x256bb.jpg" group-title="|SA| LATINO",LAT - CLARO-FOX SPORTS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=628274&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CLARO-FOX SPORTS 3 MX" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b1/ae/62/b1ae6282-6d6a-e993-15d5-68abb1e56aad/source/256x256bb.jpg" group-title="|SA| LATINO",LAT - CLARO-FOX SPORTS 3 MX
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=628273&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CLARO-FOX SPORTS 3" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b1/ae/62/b1ae6282-6d6a-e993-15d5-68abb1e56aad/source/256x256bb.jpg" group-title="|SA| LATINO",LAT - CLARO-FOX SPORTS 3
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=628272&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CLARO-FOX SPORTS 1 MX" tvg-logo="https://img1.freepng.fr/20180423/iuq/kisspng-espn2-television-channel-television-show-monday-night-football-5adda485328a88.487981571524475013207.jpg" group-title="|SA| LATINO",LAT - CLARO-FOX SPORTS 1 MX
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=628271&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CLARO-FOX SPORTS 2" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b1/ae/62/b1ae6282-6d6a-e993-15d5-68abb1e56aad/source/256x256bb.jpg" group-title="|SA| LATINO",LAT - CLARO-FOX SPORTS 2
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=628270&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CLARO-ESPN3" tvg-logo="https://img1.freepng.fr/20180423/iuq/kisspng-espn2-television-channel-television-show-monday-night-football-5adda485328a88.487981571524475013207.jpg" group-title="|SA| LATINO",LAT - CLARO-ESPN3
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=628269&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CLARO-ESPN2" tvg-logo="https://img1.freepng.fr/20180423/iuq/kisspng-espn2-television-channel-television-show-monday-night-football-5adda485328a88.487981571524475013207.jpg" group-title="|SA| LATINO",LAT - CLARO-ESPN2
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=628268&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX SPORTS 1" tvg-logo="http://logo.protv.cc/picons-dino/logos/foxsports1.png" group-title="|SA| LATINO",LAT - FOX SPORTS 1
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264940&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX SPORTS 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/foxsports1hd.png" group-title="|SA| LATINO",LAT - FOX SPORTS 1 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264941&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX SPORTS 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/foxsports2.png" group-title="|SA| LATINO",LAT - FOX SPORTS 2
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264942&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX SPORTS 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/foxsports2hd.png" group-title="|SA| LATINO",LAT - FOX SPORTS 2 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264943&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX SPORTS 3" tvg-logo="http://logo.protv.cc/picons-dino/logos/foxsports3.png" group-title="|SA| LATINO",LAT - FOX SPORTS 3
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264944&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX SPORTS 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/foxsports3hd.png" group-title="|SA| LATINO",LAT - FOX SPORTS 3 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264945&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX SPORTS PREMIUM" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-PREMIUM.png" group-title="|SA| LATINO",LAT - FOX SPORTS PREMIUM
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264946&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FUTV GRITALO CR UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FUTV-GRITALO-CR.jpeg" group-title="|SA| LATINO",LAT - FUTV GRITALO CR UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264947&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FX" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.fx.png" group-title="|AM| ARGENTINA",LAT - FX
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264948&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FX UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.fx_hd.png" group-title="|AM| ARGENTINA",LAT - FX UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264949&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FXM" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.fxm.png" group-title="|AM| ARGENTINA",LAT - FXM
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264950&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FXM UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.fxm_HD.png" group-title="|AM| ARGENTINA",LAT - FXM UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264951&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - GALAVISION UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.galavision.png" group-title="|SA| LATINO",LAT - GALAVISION UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264952&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - GARAGE TV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/garagetv.png" group-title="|AM| ARGENTINA",LAT - GARAGE TV UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264953&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - GLITZ" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Glitz.png" group-title="|AM| ARGENTINA",LAT - GLITZ
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264954&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - GOL TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.goltv.png" group-title="|SA| LATINO",LAT - GOL TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264955&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - GOLDEN" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.golden.png" group-title="|SA| LATINO",LAT - GOLDEN
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264956&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - GOLDEN EDGE" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.golden.png" group-title="|SA| LATINO",LAT - GOLDEN EDGE
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264957&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - GOLDEN PLUS" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.goldenplus.png" group-title="|SA| LATINO",LAT - GOLDEN PLUS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264958&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - GOLDEN PLUS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.guatevision.png" group-title="|SA| LATINO",LAT - GOLDEN PLUS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264959&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - GUATEVISION" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.guatevision.png" group-title="|SA| LATINO",LAT - GUATEVISION
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264960&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - H2" tvg-logo="http://logo.protv.cc/picons-dino/logos/h2.png" group-title="|AM| ARGENTINA",LAT - H2
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264961&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - H2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.h2hd.png" group-title="|AM| ARGENTINA",LAT - H2 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264962&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - HBO" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.hbo.png" group-title="|AM| ARGENTINA",LAT - HBO
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264963&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - HBO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.hbohd.png" group-title="|AM| ARGENTINA",LAT - HBO UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264964&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - HBO 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Hbo2.png" group-title="|AM| ARGENTINA",LAT - HBO 2
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264965&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - HBO 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.hbo2hd.png" group-title="|AM| ARGENTINA",LAT - HBO 2 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264966&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - HBO FAMILY" tvg-logo="http://logo.protv.cc/picons-dino/logos/hbofamily.jpg" group-title="|AM| ARGENTINA",LAT - HBO FAMILY
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264967&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - HBO FAMILY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/HBO-FAMILY-HD.png" group-title="|AM| ARGENTINA",LAT - HBO FAMILY UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264968&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - HBO PLUS" tvg-logo="http://logo.protv.cc/picons-dino/logos/HBO-PLUS.png" group-title="|SA| LATINO",LAT - HBO PLUS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264969&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - HBO PLUS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/HBO-PLUS.png" group-title="|SA| LATINO",LAT - HBO PLUS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264970&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - HBO SIGNATURE" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.hbo_signature.png" group-title="|AM| ARGENTINA",LAT - HBO SIGNATURE
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264971&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - HBO SIGNATURE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.HBO_Signaturehd.png" group-title="|AM| ARGENTINA",LAT - HBO SIGNATURE UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264972&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - HISTORY 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/history2hd.png" group-title="|SA| LATINO",LAT - HISTORY 2 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264973&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - HISTORY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.historyhd.png" group-title="|SA| LATINO",LAT - HISTORY UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264974&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - HOLA TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.holatv.png" group-title="|SA| LATINO",LAT - HOLA TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264975&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - HOLA TV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.holatv.png" group-title="|SA| LATINO",LAT - HOLA TV UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264976&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - INDIEPLEX UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/indieplex.png" group-title="|SA| LATINO",LAT - INDIEPLEX UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264977&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - INVESTIGATION DISCOVERY" tvg-logo="http://logo.protv.cc/picons-dino/logos/investigationdiscovery.png" group-title="|AM| ARGENTINA",LAT - INVESTIGATION DISCOVERY
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264978&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - INVESTIGATION DISCOVERY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/investigationdiscoveryhd.png" group-title="|AM| ARGENTINA",LAT - INVESTIGATION DISCOVERY UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264979&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - LIFETIME" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.lifetime.png" group-title="|AM| ARGENTINA",LAT - LIFETIME
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264980&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - LIFETIME UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/las.lifetime_hd.png" group-title="|AM| ARGENTINA",LAT - LIFETIME UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264981&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MARTI TV (CU)" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.martitv.png" group-title="|SA| LATINO",LAT - MARTI TV (CU)
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264982&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MAS CHIC UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.maschic.png" group-title="|AM| ARGENTINA",LAT - MAS CHIC UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264983&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MAX" tvg-logo="http://logo.protv.cc/picons-dino/logos/max.png" group-title="|SA| LATINO",LAT - MAX
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264984&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MAX PRIME" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.max_prime.png" group-title="|SA| LATINO",LAT - MAX PRIME
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264985&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MAX UP UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.maxup.png" group-title="|SA| LATINO",LAT - MAX UP UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264986&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MAYA TV (HN)" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.mayatv.png" group-title="|SA| LATINO",LAT - MAYA TV (HN)
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264987&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MEGA TV PR UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MEGA-TV-.jpg" group-title="|SA| LATINO",LAT - MEGA TV PR UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264988&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MILENIO TV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.MilenioTV.png" group-title="|SA| LATINO",LAT - MILENIO TV UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264989&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MOVIEMAX UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.MOVIEMAXHD.png" group-title="|SA| LATINO",LAT - MOVIEMAX UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264990&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MOVIEPLEX UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.MOVIEPLEXHD.png" group-title="|SA| LATINO",LAT - MOVIEPLEX UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264991&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MTV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.mtv_hd.png" group-title="|AM| ARGENTINA",LAT - MTV UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264992&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MTV HITS" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.mtvhits.png" group-title="|AM| ARGENTINA",LAT - MTV HITS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264993&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MTV LIVE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.MTV_Live_HD.png" group-title="|SA| LATINO",LAT - MTV LIVE UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264994&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MULTIMEDIOS" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.multimedios.png" group-title="|SA| LATINO",LAT - MULTIMEDIOS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264995&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MULTIMEDIOS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.multimediohd.png" group-title="|SA| LATINO",LAT - MULTIMEDIOS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264996&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MULTIMEDIOS PLUS" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.multimedioplus.png" group-title="|SA| LATINO",LAT - MULTIMEDIOS PLUS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264997&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MULTIMEDIOS PLUS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.multimedioplus.png" group-title="|SA| LATINO",LAT - MULTIMEDIOS PLUS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264998&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - NAT GEO" tvg-logo="http://logo.protv.cc/picons-dino/logos/natgeo.png" group-title="|AM| ARGENTINA",LAT - NAT GEO
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=264999&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - NAT GEO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Nat_Geo_HD.png" group-title="|AM| ARGENTINA",LAT - NAT GEO UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265000&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - NAT GEO KIDS" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.National_Geographic_Kids.png" group-title="|SA| LATINO",LAT - NAT GEO KIDS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265001&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - NAT GEO KIDS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.national_geographic_kids_HD.png" group-title="|SA| LATINO",LAT - NAT GEO KIDS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265002&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - NAT GEO MUNDO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.natgeomundo.png" group-title="|SA| LATINO",LAT - NAT GEO MUNDO UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265003&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - NAT GEO WILD" tvg-logo="http://logo.protv.cc/picons-dino/logos/natgeowild.png" group-title="|AM| ARGENTINA",LAT - NAT GEO WILD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265004&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - NAT GEO WILD UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.natgeowildhd.png" group-title="|AM| ARGENTINA",LAT - NAT GEO WILD UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265005&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - NBC UNIVERSO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.nbcuniversohd.png" group-title="|SA| LATINO",LAT - NBC UNIVERSO UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265006&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - NEX TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/pr.nextv.png" group-title="|AM| PANAMA",LAT - NEX TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265007&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - NICK 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.nick2.png" group-title="|AM| ARGENTINA",LAT - NICK 2
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265008&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - NICK JR" tvg-logo="http://logo.protv.cc/picons-dino/logos/nickjr.png" group-title="|SA| LATINO",LAT - NICK JR
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265009&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - NICK TOONS" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.nicktoons.png" group-title="|SA| LATINO",LAT - NICK TOONS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265010&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - NICKELODEON UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NICKELODEON-HD.png" group-title="|AM| ARGENTINA",LAT - NICKELODEON UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265011&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - NTN 24 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.ntn24.png" group-title="|SA| LATINO",LAT - NTN 24 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265012&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - OUTERMAX UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/OUTERMAX-HD.png" group-title="|SA| LATINO",LAT - OUTERMAX UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265013&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - PARAMOUNT CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/paramountchannel.png" group-title="|AM| ARGENTINA",LAT - PARAMOUNT CHANNEL
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265014&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - PARAMOUNT CHANNEL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/paramountchannelhd.png" group-title="|AM| ARGENTINA",LAT - PARAMOUNT CHANNEL UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265015&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - PASIONES UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.pasioneshd.png" group-title="|SA| LATINO",LAT - PASIONES UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265016&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - PROMAR" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.promartv.png" group-title="|SA| LATINO",LAT - PROMAR
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265017&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - SERTV (PA)" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.SERTV.png" group-title="|AM| PANAMA",LAT - SERTV (PA)
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265020&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - NOSTV BONAIRE" tvg-logo="http://logo.protv.cc/picons/logos/nostvbonaire.png" group-title="|SA| LATINO",LAT - NOSTV BONAIRE
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=761155&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - RITMOSON" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.ritmoson.png" group-title="|SA| LATINO",LAT - RITMOSON
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265019&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - SHOWTIME BEYOND UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SHOWTIME-BEYOND-HD.png" group-title="|SA| LATINO",LAT - SHOWTIME BEYOND UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265021&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - SHOWTIME EAST UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SHOWTIME-EAST-HD.png" group-title="|SA| LATINO",LAT - SHOWTIME EAST UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265022&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - SHOWTIME UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.showtime.png" group-title="|SA| LATINO",LAT - SHOWTIME UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265023&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - SHOWTIME WEST UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SHOWTIME-WEST-HD.png" group-title="|SA| LATINO",LAT - SHOWTIME WEST UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265024&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - SONY CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/SONY-CHANNEL.png" group-title="|AM| ARGENTINA",LAT - SONY CHANNEL
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265025&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - SPACE" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.space.png" group-title="|SA| LATINO",LAT - SPACE
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265026&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - SPACE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.spacehd.png" group-title="|SA| LATINO",LAT - SPACE UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265027&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - STARZ COMEDY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/STARZ-COMEDY-HD.png" group-title="|SA| LATINO",LAT - STARZ COMEDY UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265028&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - STARZ EAST UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/starz.png" group-title="|SA| LATINO",LAT - STARZ EAST UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265029&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - STARZ EDGE UHD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/STARZ_EDGE_HD.png" group-title="|SA| LATINO",LAT - STARZ EDGE UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265030&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - STARZ ENCORE ACTION" tvg-logo="http://logo.protv.cc/picons/iptvlogos/STARZ_ENCORE_ACTION_HD.png" group-title="|SA| LATINO",LAT - STARZ ENCORE ACTION
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265031&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - STARZ ENCORE BLACK UHD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/STARZ_ENCORE_BLACK_HD.png" group-title="|SA| LATINO",LAT - STARZ ENCORE BLACK UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265032&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - STARZ ENCORE CLASSIC UHD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/STARZ_ENCORE_CLASSIC_HD.png" group-title="|SA| LATINO",LAT - STARZ ENCORE CLASSIC UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265033&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - STARZ ENCORE FAMILY UHD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/STARZ_ENCORE_FAMILY_HD.png" group-title="|SA| LATINO",LAT - STARZ ENCORE FAMILY UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265034&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - STARZ ENCORE UHD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/STARZ_ENCORE_HD.png" group-title="|SA| LATINO",LAT - STARZ ENCORE UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265035&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - STARZ ENCORE SUSPENSE UHD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/STARZ_ENCORE_SUSPENSE.png" group-title="|SA| LATINO",LAT - STARZ ENCORE SUSPENSE UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265036&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - STARZ ENCORE WESTERN UHD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/STARZ_ENCORE_WESTERNS_HD.png" group-title="|SA| LATINO",LAT - STARZ ENCORE WESTERN UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265037&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - STARZ FAMILY UHD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/STARZ_FAMILY_HD.png" group-title="|SA| LATINO",LAT - STARZ FAMILY UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265038&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - STARZ UHD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/STARZ_HD.png" group-title="|SA| LATINO",LAT - STARZ UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265039&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - STARZ KIDS & FAMILY UHD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/STARZ_KIDS_&_FAMILY_HD.png" group-title="|SA| LATINO",LAT - STARZ KIDS & FAMILY UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265040&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - STARZ WEST UHD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/STARZ_CINEMA_EAST_HD.png" group-title="|SA| LATINO",LAT - STARZ WEST UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265041&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - STUDIO UNIVERSAL" tvg-logo="http://logo.protv.cc/picons/iptvlogos/STUDIO_UNIVERSAL_HD.png" group-title="|AM| ARGENTINA",LAT - STUDIO UNIVERSAL
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265042&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - STUDIO UNIVERSAL UHD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/STUDIO_UNIVERSAL_HD.png" group-title="|AM| ARGENTINA",LAT - STUDIO UNIVERSAL UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265043&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - SUNDANCE TV" tvg-logo="http://logo.protv.cc/picons/iptvlogos/SUNDANCE_TV.png" group-title="|SA| LATINO",LAT - SUNDANCE TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265044&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - SUNDANCE TV UHD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/SUNDANCE_TV_HD.png" group-title="|SA| LATINO",LAT - SUNDANCE TV UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265045&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - SYFY UHD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/SYFY_HD.png" group-title="|AM| ARGENTINA",LAT - SYFY UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265046&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TBS" tvg-logo="http://logo.protv.cc/picons/iptvlogos/TBS_HD.png" group-title="|AM| ARGENTINA",LAT - TBS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265047&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TCM" tvg-logo="http://logo.protv.cc/picons-dino/logos/tcm.png" group-title="|AM| ARGENTINA",LAT - TCM
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265048&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELE ANTILLES" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.teleantillas.png" group-title="|SA| LATINO",LAT - TELE ANTILLES
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265049&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELE REBELDE (CU)" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telerebelde.png" group-title="|SA| LATINO",LAT - TELE REBELDE (CU)
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265050&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEAMAZONAS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Teleamazonas.png" group-title="|SA| LATINO",LAT - TELEAMAZONAS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265051&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELECENTRO" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telecentro.png" group-title="|SA| LATINO",LAT - TELECENTRO
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265052&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEFORMULA" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.teleformula.png" group-title="|SA| LATINO",LAT - TELEFORMULA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265053&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMETRO (PA)" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Telemetro.png" group-title="|AM| PANAMA",LAT - TELEMETRO (PA)
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265054&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO HOUSTON UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Telemundo_Houston.png" group-title="|SA| LATINO",LAT - TELEMUNDO HOUSTON UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265055&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO ATLANTA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telemundoatlanta.png" group-title="|SA| LATINO",LAT - TELEMUNDO ATLANTA UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265056&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO BOSTON UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telemundoboston.png" group-title="|SA| LATINO",LAT - TELEMUNDO BOSTON UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265057&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO CHICAGO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telemundochicago.png" group-title="|SA| LATINO",LAT - TELEMUNDO CHICAGO UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265058&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO DALLAS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telemundodallas.png" group-title="|SA| LATINO",LAT - TELEMUNDO DALLAS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265059&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO EAST UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telemundohd.png" group-title="|SA| LATINO",LAT - TELEMUNDO EAST UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265060&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO FRESNO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telemundohd.png" group-title="|SA| LATINO",LAT - TELEMUNDO FRESNO UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265061&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telemundohd.png" group-title="|AM| ARGENTINA",LAT - TELEMUNDO UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265062&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO INTERNATIONAL" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telemundo_internaciona.png" group-title="|SA| LATINO",LAT - TELEMUNDO INTERNATIONAL
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265063&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO LAS VEGAS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telemundohd.png" group-title="|SA| LATINO",LAT - TELEMUNDO LAS VEGAS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265064&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO LOS ANGELES UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telemundo_los_anjeles.png" group-title="|SA| LATINO",LAT - TELEMUNDO LOS ANGELES UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265065&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO MIAMI UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telemundohd.png" group-title="|SA| LATINO",LAT - TELEMUNDO MIAMI UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265066&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO NEW YORK UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telemundohd.png" group-title="|SA| LATINO",LAT - TELEMUNDO NEW YORK UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265067&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO PHILADELPHIA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telemundohd.png" group-title="|SA| LATINO",LAT - TELEMUNDO PHILADELPHIA UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265068&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO PHOENIX UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telemundohd.png" group-title="|SA| LATINO",LAT - TELEMUNDO PHOENIX UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265069&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO SAN FRANSISCO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telemundohd.png" group-title="|SA| LATINO",LAT - TELEMUNDO SAN FRANSISCO UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265071&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ABC PUERTO RICO" tvg-logo="http://logo.protv.cc/picons/logos/ABC-.png" group-title="|SA| LATINO",LAT - ABC PUERTO RICO
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=648386&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO PUERTO RICO HD" tvg-logo="http://logo.protv.cc/picons/logos/TELEMUNDO-.jpeg" group-title="|SA| LATINO",LAT - TELEMUNDO PUERTO RICO HD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=653981&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION 11 PUERTO RICO HD" tvg-logo="http://logo.protv.cc/picons/logos/UNIVISION-PUERTO-RICO.jpeg" group-title="|SA| LATINO",LAT - UNIVISION 11 PUERTO RICO HD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=653980&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO PUERTO RICO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telemundohd.png" group-title="|SA| LATINO",LAT - TELEMUNDO PUERTO RICO UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265070&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO WASHINGTON UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telemundohd.png" group-title="|SA| LATINO",LAT - TELEMUNDO WASHINGTON UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265072&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO WEST UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telemundohd.png" group-title="|SA| LATINO",LAT - TELEMUNDO WEST UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265073&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELENOVELAS" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telenovelas.png" group-title="|SA| LATINO",LAT - TELENOVELAS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265074&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEPACIFICO" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Telepacífico.png" group-title="|SA| LATINO",LAT - TELEPACIFICO
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265075&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELESISTEMA" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telesistema.png" group-title="|SA| LATINO",LAT - TELESISTEMA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265076&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELESUR" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telesur.png" group-title="|AM| PANAMA",LAT - TELESUR
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265077&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELETICA 7 (CR)" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Teletica.png" group-title="|SA| LATINO",LAT - TELETICA 7 (CR)
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265078&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TLC" tvg-logo="http://logo.protv.cc/picons-dino/logos/tlc.png" group-title="|SA| LATINO",LAT - TLC
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265079&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TLC UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.tlchd.png" group-title="|SA| LATINO",LAT - TLC UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265080&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TNT" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.tnt.png" group-title="|AM| ARGENTINA",LAT - TNT
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265081&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TNT UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tnthd.png" group-title="|AM| ARGENTINA",LAT - TNT UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265082&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TNT SERIES" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.TNT_Serie.png" group-title="|AM| ARGENTINA",LAT - TNT SERIES
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265083&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TNT SERIES UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.tntseriehd.png" group-title="|AM| ARGENTINA",LAT - TNT SERIES UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265084&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TNT SPORTS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.TNT_Sports.png" group-title="|AM| ARGENTINA",LAT - TNT SPORTS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265085&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TV CHILE" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.tvchile.png" group-title="|AM| CHILE",LAT - TV CHILE
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265089&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TOONCAST" tvg-logo="http://logo.protv.cc/picons-dino/logos/TOONCAST-HD.png" group-title="|AM| ARGENTINA",LAT - TOONCAST
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265086&extension=ts
+#EXTINF:-1 tvg-id="la.truTV HD" tvg-name="LAT - TRU TV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.trutv.png" group-title="|AM| ARGENTINA",LAT - TRU TV HD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=646004&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TV MAX (PA)" tvg-logo="http://logo.protv.cc/picons-dino/logos/TV-MAX-(PA).jpg" group-title="|AM| PANAMA",LAT - TV MAX (PA)
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265090&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TVE" tvg-logo="http://logo.protv.cc/picons-dino/logos/tve.png" group-title="|SA| LATINO",LAT - TVE
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265091&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TYC SPORTS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.tyc-sports.png" group-title="|AM| ARGENTINA",LAT - TYC SPORTS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265093&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ULTRA CLASSICO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.ultraclassic.png" group-title="|SA| LATINO",LAT - ULTRA CLASSICO UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265094&extension=ts
+#EXTINF:-1 tvg-id="la.UniMás (KSTR) Dallas, TX" tvg-name="LAT - UNIMAS DALLAS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.unimas.png" group-title="|SA| LATINO",LAT - UNIMAS DALLAS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265095&extension=ts
+#EXTINF:-1 tvg-id="la.UniMás (WFUT) New York, NY" tvg-name="LAT - UNIMAS EAST UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.unimas.png" group-title="|SA| LATINO",LAT - UNIMAS EAST UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265096&extension=ts
+#EXTINF:-1 tvg-id="la.UniMás  - Network Pacific" tvg-name="LAT - UNIMAS HAWAI UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.unimas.png" group-title="|SA| LATINO",LAT - UNIMAS HAWAI UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265097&extension=ts
+#EXTINF:-1 tvg-id="la.UniMás (WFUT) New York, NY" tvg-name="LAT - UNIMAS LAS VEGAS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.unimas.png" group-title="|SA| LATINO",LAT - UNIMAS LAS VEGAS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265098&extension=ts
+#EXTINF:-1 tvg-id="la.UniMás  - Network Pacific" tvg-name="LAT - UNIMAS WEST UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.unimas.png" group-title="|SA| LATINO",LAT - UNIMAS WEST UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265099&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVERSAL CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/universalchannel.png" group-title="|AM| ARGENTINA",LAT - UNIVERSAL CHANNEL
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265100&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION ATLANTA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.univision.png" group-title="|SA| LATINO",LAT - UNIVISION ATLANTA UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265101&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION AUSTIN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.univision.png" group-title="|SA| LATINO",LAT - UNIVISION AUSTIN UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265102&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION CHICAGO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.univision.png" group-title="|SA| LATINO",LAT - UNIVISION CHICAGO UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265103&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION CLEVELAND UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.univision.png" group-title="|SA| LATINO",LAT - UNIVISION CLEVELAND UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265104&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION DALLAS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.univision.png" group-title="|SA| LATINO",LAT - UNIVISION DALLAS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265105&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION DEPORTES UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.univision_deportes.png" group-title="|SA| LATINO",LAT - UNIVISION DEPORTES UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265106&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION EAST UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.univision.png" group-title="|SA| LATINO",LAT - UNIVISION EAST UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265107&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION FORT LAUDERDALE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.univision.png" group-title="|SA| LATINO",LAT - UNIVISION FORT LAUDERDALE UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265108&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION FRESNO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.univision.png" group-title="|SA| LATINO",LAT - UNIVISION FRESNO UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265109&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION HOUSTON UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.univision.png" group-title="|SA| LATINO",LAT - UNIVISION HOUSTON UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265110&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION LOS ANGELES UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.univision.png" group-title="|SA| LATINO",LAT - UNIVISION LOS ANGELES UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265111&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION MIAMI UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.univision.png" group-title="|SA| LATINO",LAT - UNIVISION MIAMI UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265112&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION NEW YORK UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.univision.png" group-title="|SA| LATINO",LAT - UNIVISION NEW YORK UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265113&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION NOTICIAS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.univision.png" group-title="|SA| LATINO",LAT - UNIVISION NOTICIAS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265114&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION TELENOVELAS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Univision_tlnovelas.png" group-title="|SA| LATINO",LAT - UNIVISION TELENOVELAS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265116&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION WEST UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.univision.png" group-title="|SA| LATINO",LAT - UNIVISION WEST UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265117&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - VENEVISION PLUS" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.venevicionplus.png" group-title="|SA| LATINO",LAT - VENEVISION PLUS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265118&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - VH1 CLASSIC" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.vh1_classic.png" group-title="|SA| LATINO",LAT - VH1 CLASSIC
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265119&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - VH1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.VH1_HD.png" group-title="|AM| ARGENTINA",LAT - VH1 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265120&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - VTV" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.vtv.png" group-title="|SA| LATINO",LAT - VTV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265121&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - WAPA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/WAPA-.jpeg" group-title="|SA| LATINO",LAT - WAPA UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265122&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - WAPA 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/WAPA-2-HD.png" group-title="|SA| LATINO",LAT - WAPA 2 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265123&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - WAPA AMERICA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/WAPA-AMERICA.jpeg" group-title="|SA| LATINO",LAT - WAPA AMERICA UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265124&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - WARNER" tvg-logo="http://logo.protv.cc/picons-dino/logos/warnertv.png" group-title="|AM| ARGENTINA",LAT - WARNER
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265125&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - WARNER UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Warnerhd.png" group-title="|AM| ARGENTINA",LAT - WARNER UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265126&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - AMERICA TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.americatv.png" group-title="|AM| ARGENTINA",LAT - AMERICA TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265146&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MARTINIQUE 1ERE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MARTINIQUE-1ERE.png" group-title="|SA| LATINO",LAT - MARTINIQUE 1ERE HD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=648747&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MARTINIQUE- ATV HD" tvg-logo="http://logo.protv.cc/picons/logos/ATV-MARTINIQUE.png" group-title="|SA| LATINO",LAT - MARTINIQUE- ATV HD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=648746&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MARTINIQUE- KMT HD" tvg-logo="http://logo.protv.cc/picons/logos/KMT-TV.jpeg" group-title="|SA| LATINO",LAT - MARTINIQUE- KMT HD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=648745&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - GUADELOUPE- ALIZES HD" tvg-logo="http://logo.protv.cc/picons/logos/ALIZES-TV.jpeg" group-title="|SA| LATINO",LAT - GUADELOUPE- ALIZES HD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=648743&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - GUADELOUPE- ECLAIRE TV HD" tvg-logo="http://logo.protv.cc/picons/logos/ECLAIR-TV.jpeg" group-title="|SA| LATINO",LAT - GUADELOUPE- ECLAIRE TV HD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=648744&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - VIX &extension=ts DEPORTES" tvg-logo="http://logo.protv.cc/picons/logos/LATINO/VIX-DEPORTES.png" group-title="|SA| LATINO",LAT - VIX &extension=ts DEPORTES
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=790712&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="##### ARGENTINA #####" tvg-logo="" group-title="|AM| ARGENTINA",##### ARGENTINA #####
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265145&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ARGENTINA MAGAZINE" tvg-logo="http://logo.protv.cc/picons-dino/logos/ARGENTINA-MAGAZINE.jpg" group-title="|AM| ARGENTINA",LAT - ARGENTINA MAGAZINE
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265147&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ARGENTINA PAKAPAKA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ARGENTINA-PAKAPAKA.jpg" group-title="|AM| ARGENTINA",LAT - ARGENTINA PAKAPAKA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265148&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - C5N" tvg-logo="http://logo.protv.cc/picons-dino/logos/C5N-.png" group-title="|AM| ARGENTINA",LAT - C5N
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265149&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL 13" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-13.png" group-title="|AM| ARGENTINA",LAT - CANAL 13
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265151&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL 26 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-26-HD.jpg" group-title="|AM| ARGENTINA",LAT - CANAL 26 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265152&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL 4" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-4.jpg" group-title="|AM| ARGENTINA",LAT - CANAL 4
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265153&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL 4 (ARG)" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-4.jpg" group-title="|AM| ARGENTINA",LAT - CANAL 4 (ARG)
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265154&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL 9" tvg-logo="http://logo.protv.cc/picons-dino/logos/canal9.png" group-title="|AM| ARGENTINA",LAT - CANAL 9
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265155&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL RURAL" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-RURAL.jpg" group-title="|AM| ARGENTINA",LAT - CANAL RURAL
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265156&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANALE 3" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANALE-3.jpeg" group-title="|AM| ARGENTINA",LAT - CANALE 3
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265157&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL ORBE" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-ORBE.png" group-title="|AM| ARGENTINA",LAT - CANAL ORBE
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=673328&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CIUDAD MAGAZINE" tvg-logo="http://logo.protv.cc/picons-dino/logos/CIUDAD-MAGAZINE.jpeg" group-title="|AM| ARGENTINA",LAT - CIUDAD MAGAZINE
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265158&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DEPORTV" tvg-logo="http://logo.protv.cc/picons-dino/logos/DEPORTV-.jpeg" group-title="|AM| ARGENTINA",LAT - DEPORTV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265159&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DIRECT TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/DIRECT-TV.jpg" group-title="|AM| ARGENTINA",LAT - DIRECT TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265160&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - EL NUEVE" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELNUEVE.png" group-title="|AM| ARGENTINA",LAT - EL NUEVE
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265161&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - EL NUEVE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELNUEVE.png" group-title="|AM| ARGENTINA",LAT - EL NUEVE UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265162&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - EL TRECE" tvg-logo="http://logo.protv.cc/picons-dino/logos/EL-TRECE-HD.png" group-title="|AM| ARGENTINA",LAT - EL TRECE
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265163&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - EL TRECE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/EL-TRECE-HD.png" group-title="|AM| ARGENTINA",LAT - EL TRECE UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265164&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ELNUEVE" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELNUEVE.png" group-title="|AM| ARGENTINA",LAT - ELNUEVE
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265165&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ENCUENTRO" tvg-logo="http://logo.protv.cc/picons-dino/logos/ENCUENTRO-.png" group-title="|AM| ARGENTINA",LAT - ENCUENTRO
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265166&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ESPN ARGENTINA" tvg-logo="http://logo.protv.cc/picons-dino/logos/espn.png" group-title="|AM| ARGENTINA",LAT - ESPN ARGENTINA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265167&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - EUROPA EUROPA" tvg-logo="http://logo.protv.cc/picons/logos/EUROPA-EUROPA-HD.png" group-title="|AM| ARGENTINA",LAT - EUROPA EUROPA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=719130&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - EWTN" tvg-logo="http://logo.protv.cc/picons/logos/ewtn.png" group-title="|AM| ARGENTINA",LAT - EWTN
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=673329&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOOD NETWORK" tvg-logo="http://logo.protv.cc/picons/logos/FOOD%20NETWORK.png" group-title="|AM| ARGENTINA",LAT - FOOD NETWORK
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=742856&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX SPORTS 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/foxsports1hd.png" group-title="|AM| ARGENTINA",LAT - FOX SPORTS 1 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265168&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX SPORTS 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/foxsports2hd.png" group-title="|AM| ARGENTINA",LAT - FOX SPORTS 2 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265169&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX SPORTS 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/foxsports3hd.png" group-title="|AM| ARGENTINA",LAT - FOX SPORTS 3 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265170&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX SPORTS PREMIUM" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-PREMIUM.png" group-title="|AM| ARGENTINA",LAT - FOX SPORTS PREMIUM
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265171&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - GARAGE TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/garagetv.png" group-title="|AM| ARGENTINA",LAT - GARAGE TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265172&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - GOL TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/Gol_Tv.png" group-title="|AM| ARGENTINA",LAT - GOL TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265173&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MUSICTOP" tvg-logo="http://logo.protv.cc/picons-dino/logos/musictop.png" group-title="|AM| ARGENTINA",LAT - MUSICTOP
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265174&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEFE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELEFE-HD.jpeg" group-title="|AM| ARGENTINA",LAT - TELEFE UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265175&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMAX" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELEMAX-.png" group-title="|AM| ARGENTINA",LAT - TELEMAX
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265176&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELPIN CANAL 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELPIN-CANAL-2-HD.png" group-title="|AM| ARGENTINA",LAT - TELPIN CANAL 2
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265177&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TN-.jpg" group-title="|AM| ARGENTINA",LAT - TN UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265179&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TV PUBLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/TV-PUBLICA.jpg" group-title="|AM| ARGENTINA",LAT - TV PUBLICA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265180&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TV PUBLICA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TV-PUBLICA.jpg" group-title="|AM| ARGENTINA",LAT - TV PUBLICA UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265181&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TYC" tvg-logo="http://logo.protv.cc/picons-dino/logos/TYC.png" group-title="|AM| ARGENTINA",LAT - TYC
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265182&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TYC SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/LATINO/TyC_Sports.png" group-title="|AM| ARGENTINA",LAT - TYC SPORTS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=813041&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TYC SPORTS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.tyc-sports.png" group-title="|AM| ARGENTINA",LAT - TYC SPORTS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265183&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="##### BOLIVIA #####" tvg-logo="" group-title="|AM| BOLIVIA",##### BOLIVIA #####
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=435515&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - BOLIVIA TV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.boliviatv.png" group-title="|AM| BOLIVIA",LAT - BOLIVIA TV UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=435514&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TIGO SPORTS 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TIGO-SPORTS.png" group-title="|AM| BOLIVIA",LAT - TIGO SPORTS 1 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=435512&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TIGO SPORTS 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TIGO-SPORTS.png" group-title="|AM| BOLIVIA",LAT - TIGO SPORTS 2 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=435511&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TIGO SPORTS 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TIGO-SPORTS.png" group-title="|AM| BOLIVIA",LAT - TIGO SPORTS 3 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=435510&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ATB TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/ATB-BOLIVIA-TV.jpg" group-title="|AM| BOLIVIA",LAT - ATB TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=435509&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - GIGAVISION" tvg-logo="http://logo.protv.cc/picons-dino/logos/GIGAVISION-BOL.jpg" group-title="|AM| BOLIVIA",LAT - GIGAVISION
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=435507&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - RTP" tvg-logo="http://logo.protv.cc/picons-dino/logos/RTP-BOL.png" group-title="|AM| BOLIVIA",LAT - RTP
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=435506&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="##### CHILE #####" tvg-logo="" group-title="|AM| CHILE",##### CHILE #####
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265203&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - 24 HORAS" tvg-logo="http://logo.protv.cc/picons-dino/logos/24horas.png" group-title="|AM| CHILE",LAT - 24 HORAS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265204&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL 13" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-13.png" group-title="|AM| CHILE",LAT - CANAL 13
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265205&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CDF ESTADIO" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.cdf.png" group-title="|AM| CHILE",LAT - CDF ESTADIO
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265206&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CDF UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.cdf.png" group-title="|AM| CHILE",LAT - CDF UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265207&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CDF PREMIUM" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.cdf.png" group-title="|AM| CHILE",LAT - CDF PREMIUM
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265208&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CDO PREMIUM UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CDO-PREMIUM.png" group-title="|AM| CHILE",LAT - CDO PREMIUM UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265209&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CHILEVISION" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Chilevisiontv.png" group-title="|AM| CHILE",LAT - CHILEVISION
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265210&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CNN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cnnhd.png" group-title="|AM| CHILE",LAT - CNN UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265211&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX SPORTS CHILE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/foxsportshd.png" group-title="|AM| CHILE",LAT - FOX SPORTS CHILE UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265212&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - LA RED UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LA-RED-HD.png" group-title="|AM| CHILE",LAT - LA RED UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265213&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MEGA" tvg-logo="http://logo.protv.cc/picons-dino/logos/mega.png" group-title="|AM| CHILE",LAT - MEGA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265214&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - REC TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/REC-TV.png" group-title="|AM| CHILE",LAT - REC TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265215&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - T13 MOVIL" tvg-logo="http://logo.protv.cc/picons-dino/logos/T13-MOVIL.png" group-title="|AM| CHILE",LAT - T13 MOVIL
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265216&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELETRAK" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELETRAK.png" group-title="|AM| CHILE",LAT - TELETRAK
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265217&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TV CHILE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tvchile.png" group-title="|AM| CHILE",LAT - TV CHILE UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265218&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CABLE NOTICIAS" tvg-logo="http://logo.protv.cc/picons-dino/logos/cablenoticias.png" group-title="|AM| CHILE",LAT - CABLE NOTICIAS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265221&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL CAPITAL" tvg-logo="http://logo.protv.cc/picons-dino/logos/canalcapital.png" group-title="|AM| CHILE",LAT - CANAL CAPITAL
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265222&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="##### COLOMBIA #####" tvg-logo="" group-title="|AM| COLOMBIA",##### COLOMBIA #####
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265220&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CARACOL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.caracolhd.png" group-title="|AM| COLOMBIA",LAT - CARACOL UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265224&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL UNO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-UNO.png" group-title="|AM| COLOMBIA",LAT - CANAL UNO UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265223&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CARACOL INTERNATIONAL" tvg-logo="http://logo.protv.cc/picons-dino/logos/CARACOL-INTERNATIONAL.jpeg" group-title="|AM| COLOMBIA",LAT - CARACOL INTERNATIONAL
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265225&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CITY TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/citytv.png" group-title="|AM| COLOMBIA",LAT - CITY TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265226&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CLARO CINEMA" tvg-logo="http://logo.protv.cc/picons-dino/logos/CLARO-CINEMA.png" group-title="|AM| COLOMBIA",LAT - CLARO CINEMA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265227&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CLARO SPORTS" tvg-logo="http://logo.protv.cc/picons-dino/logos/CLARO-SPORTS.jpg" group-title="|AM| COLOMBIA",LAT - CLARO SPORTS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265228&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CLARO SPORTS 2 COLOMBIA" tvg-logo="http://logo.protv.cc/picons-dino/logos/CLARO-SPORTS.jpg" group-title="|AM| COLOMBIA",LAT - CLARO SPORTS 2 COLOMBIA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265229&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CLARO SPORTS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CLARO-SPORTS.jpg" group-title="|AM| COLOMBIA",LAT - CLARO SPORTS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265230&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX SPORTS 1 COLOMBIA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/foxsports1hd.png" group-title="|AM| COLOMBIA",LAT - FOX SPORTS 1 COLOMBIA UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265231&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX SPORTS 2 COLOMBIA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/foxsports2hd.png" group-title="|AM| COLOMBIA",LAT - FOX SPORTS 2 COLOMBIA UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265232&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - FOX SPORTS 3 COLOMBIA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/foxsports3hd.png" group-title="|AM| COLOMBIA",LAT - FOX SPORTS 3 COLOMBIA UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265233&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - NTN 24" tvg-logo="http://logo.protv.cc/picons-dino/logos/ntn24.jpg" group-title="|AM| COLOMBIA",LAT - NTN 24
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265234&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - RCN" tvg-logo="http://logo.protv.cc/picons-dino/logos/rcn.png" group-title="|AM| COLOMBIA",LAT - RCN
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265235&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - RCN INTERNACIONAL" tvg-logo="http://logo.protv.cc/picons-dino/logos/co.rcn_internacional.png" group-title="|AM| COLOMBIA",LAT - RCN INTERNACIONAL
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265236&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - RCN NOVELAS" tvg-logo="http://logo.protv.cc/picons-dino/logos/RCN-NOVELAS.png" group-title="|AM| COLOMBIA",LAT - RCN NOVELAS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265237&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - SENAL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/co.senal.png" group-title="|AM| COLOMBIA",LAT - SENAL UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265238&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - SUNDANCE CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/sundancechannel.png" group-title="|AM| COLOMBIA",LAT - SUNDANCE CHANNEL
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265239&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEANTOQUIA" tvg-logo="http://logo.protv.cc/picons-dino/logos/teleantoquia.jpg" group-title="|AM| COLOMBIA",LAT - TELEANTOQUIA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265240&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELECARIBE" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELECARIBE.jpg" group-title="|AM| COLOMBIA",LAT - TELECARIBE
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265241&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEPACIFICO" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.Telepacífico.png" group-title="|AM| COLOMBIA",LAT - TELEPACIFICO
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265242&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEISLAS HD" tvg-logo="http://logo.protv.cc/picons/logos/TELEISLAS.jpeg" group-title="|AM| COLOMBIA",LAT - TELEISLAS HD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=653979&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - WIN SPORTS" tvg-logo="http://logo.protv.cc/picons-dino/logos/winsports.png" group-title="|AM| COLOMBIA",LAT - WIN SPORTS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265243&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - WIN SPORTS PLUS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/winsports.png" group-title="|AM| COLOMBIA",LAT - WIN SPORTS PLUS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265244&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEVID" tvg-logo="http://logo.protv.cc/picons/logos/TELEVIDEO-AGRIGENTO.png" group-title="|AM| COLOMBIA",LAT - TELEVID
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=645479&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ESPN" tvg-logo="http://logo.protv.cc/picons/logos/espn.png" group-title="|AM| COLOMBIA",LAT - ESPN
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=645478&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEAMIGA" tvg-logo="http://logo.protv.cc/picons/logos/TELEAMIGA.png" group-title="|AM| COLOMBIA",LAT - TELEAMIGA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=645477&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - COSMOVISION" tvg-logo="http://logo.protv.cc/picons/logos/COSMOVISION.png" group-title="|AM| COLOMBIA",LAT - COSMOVISION
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=645476&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CRISTOVISION" tvg-logo="http://logo.protv.cc/picons/logos/CRISTOVISION.png" group-title="|AM| COLOMBIA",LAT - CRISTOVISION
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=645475&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - WINSPOETS 1" tvg-logo="http://logo.protv.cc/picons/logos/WINSPOETS.png" group-title="|AM| COLOMBIA",LAT - WINSPOETS 1
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=736375&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - WINSPOETS 2" tvg-logo="http://logo.protv.cc/picons/logos/WINSPOETS.png" group-title="|AM| COLOMBIA",LAT - WINSPOETS 2
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=736376&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - WINSPOETS 3" tvg-logo="http://logo.protv.cc/picons/logos/WINSPOETS.png" group-title="|AM| COLOMBIA",LAT - WINSPOETS 3
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=736377&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="##### HONDURAS #####" tvg-logo="" group-title="|AM| HONDURAS",##### HONDURAS #####
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265128&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - UNE TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/UNE-TV.jpg" group-title="|AM| HONDURAS",LAT - UNE TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265129&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELESISTEMA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.telesistema.png" group-title="|AM| HONDURAS",LAT - TELESISTEMA UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265130&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEPROGRESO" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELEPROGRESO-.jpg" group-title="|AM| HONDURAS",LAT - TELEPROGRESO
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265131&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELECEIBA" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-7-TELECEIBA.jpeg" group-title="|AM| HONDURAS",LAT - TELECEIBA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265132&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELECADENA SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELECADENA-.jpeg" group-title="|AM| HONDURAS",LAT - TELECADENA SD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265133&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELECADENA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELECADENA-.jpeg" group-title="|AM| HONDURAS",LAT - TELECADENA UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265134&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TEN CANAL 10" tvg-logo="http://logo.protv.cc/picons-dino/logos/TEN-CANAL-10.png" group-title="|AM| HONDURAS",LAT - TEN CANAL 10
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265135&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MEGA TV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MEGA-TV-.jpg" group-title="|AM| HONDURAS",LAT - MEGA TV UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265136&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - HCH TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/HCH-TV.jpeg" group-title="|AM| HONDURAS",LAT - HCH TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265137&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL 7 TELECEIBA" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-7-TELECEIBA.jpeg" group-title="|AM| HONDURAS",LAT - CANAL 7 TELECEIBA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265138&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - SITV" tvg-logo="http://logo.protv.cc/picons-dino/logos/SITV-.jpeg" group-title="|AM| HONDURAS",LAT - SITV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265139&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - VTV" tvg-logo="http://logo.protv.cc/picons-dino/logos/vtv.png" group-title="|AM| HONDURAS",LAT - VTV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265142&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL 5 HD" tvg-logo="" group-title="|AM| HONDURAS",LAT - CANAL 5 HD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=777740&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL 11" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-11.jpeg" group-title="|AM| HONDURAS",LAT - CANAL 11
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265141&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - AZTECA" tvg-logo="http://logo.protv.cc/picons-dino/logos/AZTECA.png" group-title="|AM| HONDURAS",LAT - AZTECA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265143&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CRISTO TU ÚNICA ESPERANZA" tvg-logo="http://logo.protv.cc/picons-dino/logos/CRISTO-TU-ÚNICA-ESPERANZA.png" group-title="|AM| HONDURAS",LAT - CRISTO TU ÚNICA ESPERANZA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265144&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="##### DOMINICANA REPUBLIQUE #####" tvg-logo="" group-title="|AM| DOMINICANA REP",##### DOMINICANA REPUBLIQUE #####
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265262&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - COLORVISION UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/colorvision.jpg" group-title="|AM| DOMINICANA REP",LAT - COLORVISION UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265263&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MICROVISION" tvg-logo="http://logo.protv.cc/picons-dino/logos/microvision.jpg" group-title="|AM| DOMINICANA REP",LAT - MICROVISION
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265264&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DIGITAL 15" tvg-logo="http://logo.protv.cc/picons-dino/logos/digital15.jpg" group-title="|AM| DOMINICANA REP",LAT - DIGITAL 15
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265265&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ANTENA LATINA R.D" tvg-logo="http://logo.protv.cc/picons-dino/logos/ANTENA-LATINA-RD.jpeg" group-title="|AM| DOMINICANA REP",LAT - ANTENA LATINA R.D
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265266&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ONDA TV CANAL 10" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.ondatv.png" group-title="|AM| DOMINICANA REP",LAT - ONDA TV CANAL 10
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265267&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TV DOMINICANA" tvg-logo="http://logo.protv.cc/picons/logos/TELEVISION-DOMINICANA.jpeg" group-title="|SA| LATINO",LAT - TV DOMINICANA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=730774&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELE 11" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELE-RD11.jpeg" group-title="|AM| DOMINICANA REP",LAT - TELE 11
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265268&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELE ANTILLAS" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.teleantillas.png" group-title="|AM| DOMINICANA REP",LAT - TELE ANTILLAS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265269&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELE SISTEMA" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELESISTEMA-RD.png" group-title="|AM| DOMINICANA REP",LAT - TELE SISTEMA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265270&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMICRO 5 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/telemicro5.jpg" group-title="|AM| DOMINICANA REP",LAT - TELEMICRO 5 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265271&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELESISTEMA R.D" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELESISTEMA-RD.png" group-title="|AM| DOMINICANA REP",LAT - TELESISTEMA R.D
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265272&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEUNIVERSO" tvg-logo="http://logo.protv.cc/picons-dino/logos/teleuniverso.jpg" group-title="|AM| DOMINICANA REP",LAT - TELEUNIVERSO
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265273&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - SUPER CANAL 33 HD" tvg-logo="http://logo.protv.cc/picons/logos/SUPER-CANAL.jpeg" group-title="|AM| DOMINICANA REP",LAT - SUPER CANAL 33 HD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=720292&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="##### ECUADOR #####" tvg-logo="" group-title="|AM| ECUADOR",##### ECUADOR #####
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265275&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ASOMAVISION" tvg-logo="http://logo.protv.cc/picons-dino/logos/ASOMAVISION.jpg" group-title="|AM| ECUADOR",LAT - ASOMAVISION
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265276&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL UNO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-UNO.png" group-title="|AM| ECUADOR",LAT - CANAL UNO UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265277&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANELA TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/Canela_TV.png" group-title="|AM| ECUADOR",LAT - CANELA TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265278&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DIRECTV SPORTS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DirecTV_Sports_HD.png" group-title="|AM| ECUADOR",LAT - DIRECTV SPORTS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265279&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ECUADOR TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/EcuadorTV.png" group-title="|AM| ECUADOR",LAT - ECUADOR TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265280&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ECUADOR TV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/EcuadorTV.png" group-title="|AM| ECUADOR",LAT - ECUADOR TV UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265281&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ECUAVISA" tvg-logo="http://logo.protv.cc/picons-dino/logos/Ecuavisa.png" group-title="|AM| ECUADOR",LAT - ECUAVISA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265282&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ECUAVISA FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/Ecuavisa.png" group-title="|AM| ECUADOR",LAT - ECUAVISA FHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265283&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - GAMAVISION" tvg-logo="http://logo.protv.cc/picons-dino/logos/GAMAVISION--.png" group-title="|AM| ECUADOR",LAT - GAMAVISION
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265284&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - GAMAVISION UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GAMAVISION--.png" group-title="|AM| ECUADOR",LAT - GAMAVISION UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265285&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - GOL TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/GOL-TV.jpg" group-title="|AM| ECUADOR",LAT - GOL TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265286&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - GOL TV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GOL-TV.jpg" group-title="|AM| ECUADOR",LAT - GOL TV FHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265287&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ECDF" tvg-logo="https://elcomercio.pe/resizer/IXRBUGq9DNpvcPX9Ao3Ndsd9w5I=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NAHGNGJ4RNHHTAFFQJX3NXGIPM.jpg" group-title="|AM| ECUADOR",LAT - ECDF
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=665748&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - OROMAR TELEVISION UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/Oromar_tv_HD.png" group-title="|AM| ECUADOR",LAT - OROMAR TELEVISION UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265288&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - RTS" tvg-logo="http://logo.protv.cc/picons-dino/logos/RTS.png" group-title="|AM| ECUADOR",LAT - RTS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265289&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - RTS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/RTS.png" group-title="|AM| ECUADOR",LAT - RTS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265290&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TC TELEVISION" tvg-logo="http://logo.protv.cc/picons-dino/logos/TC-TELEVISION.png" group-title="|AM| ECUADOR",LAT - TC TELEVISION
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265291&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TC TELEVISION FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TC-TELEVISION.png" group-title="|AM| ECUADOR",LAT - TC TELEVISION FHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265292&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TC TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/TC-TELEVISION.png" group-title="|AM| ECUADOR",LAT - TC TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265293&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEAMAZONAS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/Teleamazonas.png" group-title="|AM| ECUADOR",LAT - TELEAMAZONAS FHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265294&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEVICENTRO TVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/televicentro_tvc.png" group-title="|AM| ECUADOR",LAT - TELEVICENTRO TVC
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265295&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="##### EL SALVADOR #####" tvg-logo="" group-title="|AM| EL SALVADOR",##### EL SALVADOR #####
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265296&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - 6 EL SALVADOR" tvg-logo="http://logo.protv.cc/picons-dino/logos/6-EL-SALVADOR.png" group-title="|AM| EL SALVADOR",LAT - 6 EL SALVADOR
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265297&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL 12" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-12.png" group-title="|AM| EL SALVADOR",LAT - CANAL 12
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265298&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL 19" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-19.jpg" group-title="|AM| EL SALVADOR",LAT - CANAL 19
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265299&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-2.jpg" group-title="|AM| EL SALVADOR",LAT - CANAL 2
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265300&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL 4" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-4.jpg" group-title="|AM| EL SALVADOR",LAT - CANAL 4
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265301&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL 6" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-6.jpeg" group-title="|AM| EL SALVADOR",LAT - CANAL 6
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265302&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MEGAVISION CANAL 19" tvg-logo="http://logo.protv.cc/picons-dino/logos/MEGAVISION-CANAL-19.jpg" group-title="|AM| EL SALVADOR",LAT - MEGAVISION CANAL 19
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265303&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MEGAVISION CANAL 21" tvg-logo="http://logo.protv.cc/picons-dino/logos/MEGAVISION-CANAL-21.jpg" group-title="|AM| EL SALVADOR",LAT - MEGAVISION CANAL 21
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265304&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TUTV CANAL 11" tvg-logo="http://logo.protv.cc/picons-dino/logos/TUTV-CANAL-11.png" group-title="|AM| EL SALVADOR",LAT - TUTV CANAL 11
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265305&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TVES CANAL 10" tvg-logo="http://logo.protv.cc/picons-dino/logos/TVES-CANAL-10.jpeg" group-title="|AM| EL SALVADOR",LAT - TVES CANAL 10
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265306&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - VTV CANAL 35" tvg-logo="http://logo.protv.cc/picons-dino/logos/VTV-SALVADOR.png" group-title="|AM| EL SALVADOR",LAT - VTV CANAL 35
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265307&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - WOW TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/WOW-TV.png" group-title="|AM| EL SALVADOR",LAT - WOW TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265308&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="##### MEXICO #####" tvg-logo="" group-title="|AM| MEXICO",##### MEXICO #####
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265184&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MXC| UNICABLE" tvg-logo="http://logo.protv.cc/picons-dino/logos/mxc.Unicable.png" group-title="|AM| MEXICO",LAT - MXC| UNICABLE
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265185&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MXC| AZ CLIC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mxc.azclic.png" group-title="|AM| MEXICO",LAT - MXC| AZ CLIC
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265187&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MXC| ADN 40" tvg-logo="http://logo.protv.cc/picons-dino/logos/ADN-40.jpeg" group-title="|AM| MEXICO",LAT - MXC| ADN 40
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265186&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MXC| AZ MUNDO" tvg-logo="http://logo.protv.cc/picons-dino/logos/mxc.AZ_Mundo.png" group-title="|AM| MEXICO",LAT - MXC| AZ MUNDO
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265189&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MXC| AZTECA UNO" tvg-logo="http://logo.protv.cc/picons-dino/logos/mxc.azteca_uno.png" group-title="|AM| MEXICO",LAT - MXC| AZTECA UNO
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265190&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MXC| AZTECA 7" tvg-logo="http://logo.protv.cc/picons-dino/logos/mxc.Azteca_7.png" group-title="|AM| MEXICO",LAT - MXC| AZTECA 7
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265191&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MXC| BANDAMAX" tvg-logo="http://logo.protv.cc/picons-dino/logos/mxc.Bandamax.png" group-title="|AM| MEXICO",LAT - MXC| BANDAMAX
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265192&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MXC| CANAL 5 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mxc.canal5hd.png" group-title="|AM| MEXICO",LAT - MXC| CANAL 5 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265193&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MXC| CANAL DE LAS ESTRELLAS" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-DE-LAS-ESTRELLAS.png" group-title="|AM| MEXICO",LAT - MXC| CANAL DE LAS ESTRELLAS
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265194&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MXC| CANAL ONCE" tvg-logo="http://logo.protv.cc/picons-dino/logos/mxc.canalonce.png" group-title="|AM| MEXICO",LAT - MXC| CANAL ONCE
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265195&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MXC| CANAL ONCE INT." tvg-logo="http://logo.protv.cc/picons-dino/logos/mxc.canalonce.png" group-title="|AM| MEXICO",LAT - MXC| CANAL ONCE INT.
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265196&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MXC| CANAL ONCE MX" tvg-logo="http://logo.protv.cc/picons-dino/logos/mxc.canalonce.png" group-title="|AM| MEXICO",LAT - MXC| CANAL ONCE MX
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265197&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MXC| IMAGEN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mxc.Imagentv.png" group-title="|AM| MEXICO",LAT - MXC| IMAGEN UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265199&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MXC| FORO TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.forotv.png" group-title="|AM| MEXICO",LAT - MXC| FORO TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265198&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MXC| MEXIQUENSE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mxc.mexiquensetv.png" group-title="|AM| MEXICO",LAT - MXC| MEXIQUENSE UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265200&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MXC| TUDN" tvg-logo="http://logo.protv.cc/picons/logos/TUDN.jpeg" group-title="|AM| MEXICO",LAT - MXC| TUDN
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=676049&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MXC| CINEMA DINAMITA" tvg-logo="http://logo.protv.cc/picons/logos/LATINO/CINEMA-DINAMITA.png" group-title="|AM| MEXICO",LAT - MXC| CINEMA DINAMITA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=791026&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MXC| AFIZZIONADOS UHD" tvg-logo="http://logo.protv.cc/picons/logos/LATINO/AFIZZIONADOS.png" group-title="|AM| MEXICO",LAT - MXC| AFIZZIONADOS UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=807926&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MXC| CINELATINO" tvg-logo="http://logo.protv.cc/picons/logos/LATINO/CINELATINO.png" group-title="|AM| MEXICO",LAT - MXC| CINELATINO
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=791027&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MXC| SKY SPORTS PREMIER" tvg-logo="http://logo.protv.cc/picons/logos/SKY-SPORT-PREMIER-LEAGUE-FHD.jpg" group-title="|AM| MEXICO",LAT - MXC| SKY SPORTS PREMIER
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=810927&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MXC| SKY SPORTS LALIGA" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/Sky-Sports-LaLiga.png" group-title="|AM| MEXICO",LAT - MXC| SKY SPORTS LALIGA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=810926&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="##### PARAGUAY #####" tvg-logo="" group-title="|AM| PARAGUAY",##### PARAGUAY #####
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265245&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - PARAGUAY TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/PARAGUAY-TV.png" group-title="|AM| PARAGUAY",LAT - PARAGUAY TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=435504&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - C9N PY" tvg-logo="http://logo.protv.cc/picons-dino/logos/C9N-PY.png" group-title="|AM| PARAGUAY",LAT - C9N PY
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=435499&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - GEN TV PY" tvg-logo="http://logo.protv.cc/picons-dino/logos/GEN-TV-PY.png" group-title="|AM| PARAGUAY",LAT - GEN TV PY
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=435498&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TNP" tvg-logo="http://logo.protv.cc/picons-dino/logos/pr.tnp.png" group-title="|AM| PARAGUAY",LAT - TNP
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265260&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - NOTICIAS PY" tvg-logo="http://logo.protv.cc/picons-dino/logos/NOTICIAS-PY.jpg" group-title="|AM| PARAGUAY",LAT - NOTICIAS PY
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=435495&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TIGO SPORTS PLUS PY" tvg-logo="http://logo.protv.cc/picons/logos/TIGO-SPORTS.png" group-title="|AM| PARAGUAY",LAT - TIGO SPORTS PLUS PY
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=797192&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="##### PERU #####" tvg-logo="" group-title="|AM| PERU",##### PERU #####
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=678713&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - AMERICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/pr.america.png" group-title="|AM| PERU",LAT - AMERICA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265246&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ANTARES TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/pr.antares_tv.png" group-title="|AM| PERU",LAT - ANTARES TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265247&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ATV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/pr.atv_hd.png" group-title="|AM| PERU",LAT - ATV UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265248&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CAPITAL TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/pr.Capital_tv.png" group-title="|AM| PERU",LAT - CAPITAL TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265249&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - GOLPERU" tvg-logo="http://logo.protv.cc/picons-dino/logos/pr.golperu.png" group-title="|AM| PERU",LAT - GOLPERU
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265250&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - LATINA" tvg-logo="http://logo.protv.cc/picons-dino/logos/pr.latina.png" group-title="|AM| PERU",LAT - LATINA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265251&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MAGICO" tvg-logo="http://logo.protv.cc/picons-dino/logos/MAGICO.png" group-title="|AM| PERU",LAT - MAGICO
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265252&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MONTERRICO TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/pr.monterricotv_hd.png" group-title="|AM| PERU",LAT - MONTERRICO TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265253&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - MOVISTAR DEPORTES" tvg-logo="http://logo.protv.cc/picons-dino/logos/pr.movistar_deportes.png" group-title="|AM| PERU",LAT - MOVISTAR DEPORTES
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265254&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - NEXT TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/pr.nextv.png" group-title="|AM| PERU",LAT - NEXT TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265255&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - PANAMERICANA" tvg-logo="http://logo.protv.cc/picons-dino/logos/pr.panamericana.png" group-title="|AM| PERU",LAT - PANAMERICANA
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265256&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - PERU MAGICO" tvg-logo="http://logo.protv.cc/picons-dino/logos/pr.Peru_Magico.png" group-title="|AM| PERU",LAT - PERU MAGICO
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265257&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - PLUS TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/pr.plustv.png" group-title="|AM| PERU",LAT - PLUS TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265258&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - SUR PERU" tvg-logo="http://logo.protv.cc/picons-dino/logos/pr.SUR_Peru.png" group-title="|AM| PERU",LAT - SUR PERU
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265259&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TV PERU" tvg-logo="http://logo.protv.cc/picons-dino/logos/pr.tvperu.png" group-title="|AM| PERU",LAT - TV PERU
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265261&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - WILLAX TV" tvg-logo="http://logo.protv.cc/picons/logos/willax.jpg" group-title="|AM| PERU",LAT - WILLAX TV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=678721&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="##### URUGUAY #####" tvg-logo="" group-title="|AM| URUGUAY",##### URUGUAY #####
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265309&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - A&extension=tsV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/A&extension=tsV-HD.png" group-title="|AM| URUGUAY",LAT - A&extension=tsV UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265310&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - ARTIGAS TELEVISION" tvg-logo="http://logo.protv.cc/picons-dino/logos/ARTIGAS-TELEVISION.png" group-title="|AM| URUGUAY",LAT - ARTIGAS TELEVISION
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265311&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL 4 PAYSANDU" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-4-PAYSANDU.jpg" group-title="|AM| URUGUAY",LAT - CANAL 4 PAYSANDU
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265313&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL 10 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-10.png" group-title="|AM| URUGUAY",LAT - CANAL 10 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265314&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL 12 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-12.png" group-title="|AM| URUGUAY",LAT - CANAL 12 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265315&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - RTV" tvg-logo="http://logo.protv.cc/picons-dino/logos/rtv.png" group-title="|AM| URUGUAY",LAT - RTV
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265317&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - VTV PLUS URUGUAY" tvg-logo="http://logo.protv.cc/picons/logos/VTV-PLUS-URUGUAY.png" group-title="|AM| URUGUAY",LAT - VTV PLUS URUGUAY
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=725919&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL M UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-M.png" group-title="|AM| URUGUAY",LAT - CANAL M UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265316&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEVISION NAC. URUGUAY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELEVISION-NAC-URUGUAY.png" group-title="|AM| URUGUAY",LAT - TELEVISION NAC. URUGUAY UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265318&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - URUGUAY NATURAL TV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/URUGUAY-NATURAL-TV.png" group-title="|AM| URUGUAY",LAT - URUGUAY NATURAL TV UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265319&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - VTV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/vtv.png" group-title="|AM| URUGUAY",LAT - VTV UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265320&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEDOCE HD" tvg-logo="http://logo.protv.cc/picons/logos/LATINO/TELEDOCE.png" group-title="|AM| URUGUAY",LAT - TELEDOCE HD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=821028&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - CANAL 4 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-4.jpg" group-title="|AM| URUGUAY",LAT - CANAL 4 UHD
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265312&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - PPV 08" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|AM| URUGUAY",LAT - PPV 08
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265321&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - PPV 15" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|AM| URUGUAY",LAT - PPV 15
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265322&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - PPV 17" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|AM| URUGUAY",LAT - PPV 17
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265323&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - PPV 18" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|AM| URUGUAY",LAT - PPV 18
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265324&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - PPV 20" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|AM| URUGUAY",LAT - PPV 20
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265325&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - PPV 21" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|AM| URUGUAY",LAT - PPV 21
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265326&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - PPV 27" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|AM| URUGUAY",LAT - PPV 27
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265327&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - PPV 28" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|AM| URUGUAY",LAT - PPV 28
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265328&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - PPV 29" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|AM| URUGUAY",LAT - PPV 29
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265329&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - PPV 30" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|AM| URUGUAY",LAT - PPV 30
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265330&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - PPV 32" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|AM| URUGUAY",LAT - PPV 32
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265331&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - PPV 33" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|AM| URUGUAY",LAT - PPV 33
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265332&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - PPV 34" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|AM| URUGUAY",LAT - PPV 34
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265333&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT - PPV 36" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|AM| URUGUAY",LAT - PPV 36
+http://103.176.90.122:80/play/live.php?mac=00:1a:79:92:51:97&stream=265334&extension=ts
 
 
 
